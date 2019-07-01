@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# Jetbrains products
+.idea/
+
+# Protege
+catalog-*
+
+# Python
+venv/
+
