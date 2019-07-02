@@ -14,7 +14,7 @@
 
 <http://linked.data.gov.au/dataset/agiftcofoga>
     a loci:Linkset ;
-    dct:title "AGIFT / COROG-A Linkset" ;
+    dct:title "AGIFT / COFOG-A Linkset" ;
     dct:description """This Linkset contains [SKOS mapping properties](https://www.w3.org/TR/skos-reference/#mapping) between Concepts in the [AGIFT](http://data.naa.gov.au/def/agift) and Concepts in the [COFOG-A](http://linked.data.gov.au/def/cofog) vocabularies.
 
 AGIFT, "Australian Governments' Interactive Functions Thesaurus", from the [National Archives of Australia (NAA)](http://www.naa.gov.au), is a "three-level hierarchical thesaurus that describes the business functions carried out across Commonwealth, state and local governments in Australia".
