@@ -1,7 +1,7 @@
 # AGIFT / COFOG-A Linkset
 This code repository contains a Linkset - a specialised Dataset linking objects in two other Datasets.
 
-This Linkset contains [SKOS mapping properties](https://www.w3.org/TR/skos-reference/#mapping) between Concepts in the [AGIFT](http://data.naa.gov.au/def/agift) and Concepts in the [COFOG-A](http://linked.data.gov.au/def/cofog) vocabularies.
+This Linkset contains [SKOS mapping properties](https://www.w3.org/TR/skos-reference/#mapping) between Concepts in the [AGIFT](http://data.naa.gov.au/def/agift) and Concepts in the [COFOG-A](http://linked.data.gov.au/def/cofog-a) vocabularies.
 
 AGIFT, "Australian Governments' Interactive Functions Thesaurus", from the [National Archives of Australia (NAA)](http://www.naa.gov.au), is a "three-level hierarchical thesaurus that describes the business functions carried out across Commonwealth, state and local governments in Australia".
 
