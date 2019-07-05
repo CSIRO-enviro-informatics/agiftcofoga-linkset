@@ -1,0 +1,2646 @@
+
+:s001
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-policy ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0299 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s002
+    a rdf:Statement ;
+    rdf:subject agift:Health-disaster-preparedness ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0799 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s003
+    a rdf:Statement ;
+    rdf:subject agift:Financial-system-monitoring ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0112 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s004
+    a rdf:Statement ;
+    rdf:subject agift:Transport-network-maintenance ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:11 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s005
+    a rdf:Statement ;
+    rdf:subject agift:Waste-management ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0521 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s006
+    a rdf:Statement ;
+    rdf:subject agift:DEFENCE ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s007
+    a rdf:Statement ;
+    rdf:subject agift:Road-transport ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:111 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s008
+    a rdf:Statement ;
+    rdf:subject agift:Health-disaster-preparedness ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:1091 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s009
+    a rdf:Statement ;
+    rdf:subject agift:Financial-investment ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0112 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s010
+    a rdf:Statement ;
+    rdf:subject agift:DEFENCE ;
+    rdf:predicate skos:narrowerMatch ;
+    rdf:object cofoga:0211 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s011
+    a rdf:Statement ;
+    rdf:subject agift:Mining-regulations ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0441 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s012
+    a rdf:Statement ;
+    rdf:subject agift:STATISTICAL-SERVICES ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0132 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s013
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:075 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s014
+    a rdf:Statement ;
+    rdf:subject agift:Public-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:01 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s015
+    a rdf:Statement ;
+    rdf:subject agift:Marine-life-protection-programs ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0551 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s016
+    a rdf:Statement ;
+    rdf:subject agift:Transport-infrastructure-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:11 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s017
+    a rdf:Statement ;
+    rdf:subject agift:Public-debt ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:016 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s018
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:082 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s019
+    a rdf:Statement ;
+    rdf:subject agift:Workplace-training ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0932 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s020
+    a rdf:Statement ;
+    rdf:subject agift:Mental-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:076 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s021
+    a rdf:Statement ;
+    rdf:subject agift:Military-employment-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0211 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s022
+    a rdf:Statement ;
+    rdf:subject agift:Community-support ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0621 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s023
+    a rdf:Statement ;
+    rdf:subject agift:Defence-reform-program ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0299 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s024
+    a rdf:Statement ;
+    rdf:subject agift:Water-quality-monitoring ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0631 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s025
+    a rdf:Statement ;
+    rdf:subject agift:Law-enforcement ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:033 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s026
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-artefact-repatriation ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0829 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s027
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-artefact-repatriation ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:082 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s028
+    a rdf:Statement ;
+    rdf:subject agift:Water-usage-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:063 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s029
+    a rdf:Statement ;
+    rdf:subject agift:Dental-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:079 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s030
+    a rdf:Statement ;
+    rdf:subject agift:INDIGENOUS-AFFAIRS ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0621 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s031
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-gifts-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0829 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s032
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-gifts-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:082 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s033
+    a rdf:Statement ;
+    rdf:subject agift:Water-resources ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0631 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s034
+    a rdf:Statement ;
+    rdf:subject agift:Doping-detection-research ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0771 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s035
+    a rdf:Statement ;
+    rdf:subject agift:Defence-science-and-technology ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0231 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s036
+    a rdf:Statement ;
+    rdf:subject agift:Financial-administration ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:011 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s037
+    a rdf:Statement ;
+    rdf:subject agift:Economic-research ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0471 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s038
+    a rdf:Statement ;
+    rdf:subject agift:Indigenous-enterprise-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:062 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s039
+    a rdf:Statement ;
+    rdf:subject agift:Feral-pest-control ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0391 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s040
+    a rdf:Statement ;
+    rdf:subject agift:CULTURAL-AFFAIRS ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0829 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s041
+    a rdf:Statement ;
+    rdf:subject agift:CULTURAL-AFFAIRS ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:082 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s042
+    a rdf:Statement ;
+    rdf:subject agift:Medical-research-funding ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:077 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s043
+    a rdf:Statement ;
+    rdf:subject agift:Fossil-fuel-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:043 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s044
+    a rdf:Statement ;
+    rdf:subject agift:Building-approval-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0132 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s045
+    a rdf:Statement ;
+    rdf:subject agift:Health-hazard-prevention ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:079 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s046
+    a rdf:Statement ;
+    rdf:subject agift:Personnel-safety-standards ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:03 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s047
+    a rdf:Statement ;
+    rdf:subject agift:Biotechnology-development ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0476 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s048
+    a rdf:Statement ;
+    rdf:subject agift:Occupational-health-and-safety ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s049
+    a rdf:Statement ;
+    rdf:subject agift:Ambulance-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:073 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s050
+    a rdf:Statement ;
+    rdf:subject agift:Nuclear-sciences ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0433 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s051
+    a rdf:Statement ;
+    rdf:subject agift:Population-based-research ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:055 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s052
+    a rdf:Statement ;
+    rdf:subject agift:Police-administration ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:031 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s053
+    a rdf:Statement ;
+    rdf:subject agift:Financial-administration ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0112 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s054
+    a rdf:Statement ;
+    rdf:subject agift:Defence-community-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:029 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s055
+    a rdf:Statement ;
+    rdf:subject agift:Health-promotion ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s056
+    a rdf:Statement ;
+    rdf:subject agift:Public-health-services ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:0761 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s057
+    a rdf:Statement ;
+    rdf:subject agift:Dental-health-services ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0723 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s058
+    a rdf:Statement ;
+    rdf:subject agift:General-insurance ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0411 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s059
+    a rdf:Statement ;
+    rdf:subject agift:Emergency-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:032 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s060
+    a rdf:Statement ;
+    rdf:subject agift:Medical-quarantine-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s061
+    a rdf:Statement ;
+    rdf:subject agift:Development-assistance-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:062 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s062
+    a rdf:Statement ;
+    rdf:subject agift:Passenger-services ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:1143 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s063
+    a rdf:Statement ;
+    rdf:subject agift:Defence-personnel-exchanges ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0299 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s064
+    a rdf:Statement ;
+    rdf:subject agift:Rural-community-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0629 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s065
+    a rdf:Statement ;
+    rdf:subject agift:Civil-law ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0331 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s066
+    a rdf:Statement ;
+    rdf:subject agift:Natural-disasters ;
+    rdf:predicate skos:narrowerMatch ;
+    rdf:object cofoga:1091 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s067
+    a rdf:Statement ;
+    rdf:subject agift:Defence-community-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s068
+    a rdf:Statement ;
+    rdf:subject agift:Water-usage-management ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0521 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s069
+    a rdf:Statement ;
+    rdf:subject agift:Air-transport ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:1151 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s070
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:062 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s071
+    a rdf:Statement ;
+    rdf:subject agift:Medical-research ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:014 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s072
+    a rdf:Statement ;
+    rdf:subject agift:Public-health-services ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:076 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s073
+    a rdf:Statement ;
+    rdf:subject agift:Vocational-education ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:09 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s074
+    a rdf:Statement ;
+    rdf:subject agift:Mental-health-services ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0741 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s075
+    a rdf:Statement ;
+    rdf:subject agift:Defence-efficiency-review ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s076
+    a rdf:Statement ;
+    rdf:subject agift:Integrated-services-planning ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:013 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s077
+    a rdf:Statement ;
+    rdf:subject agift:Economic-research ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:04 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s078
+    a rdf:Statement ;
+    rdf:subject agift:Water-resources ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:063 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s079
+    a rdf:Statement ;
+    rdf:subject agift:Corrective-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:031 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s080
+    a rdf:Statement ;
+    rdf:subject agift:Transport-infrastructure-development ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:118 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s081
+    a rdf:Statement ;
+    rdf:subject agift:Climate-information-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:083 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s082
+    a rdf:Statement ;
+    rdf:subject agift:Hospital-services ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0731 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s083
+    a rdf:Statement ;
+    rdf:subject agift:Postal-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:01 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s084
+    a rdf:Statement ;
+    rdf:subject agift:Patent-rights-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s085
+    a rdf:Statement ;
+    rdf:subject agift:Population-based-research ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0141 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s086
+    a rdf:Statement ;
+    rdf:subject agift:Marine-life-protection-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0599 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s087
+    a rdf:Statement ;
+    rdf:subject agift:Firefighting-services ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0322 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s088
+    a rdf:Statement ;
+    rdf:subject agift:Community-housing ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:06 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s089
+    a rdf:Statement ;
+    rdf:subject agift:Overseas-aid-programs ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:012 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s090
+    a rdf:Statement ;
+    rdf:subject agift:Doping-detection-research ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:077 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s091
+    a rdf:Statement ;
+    rdf:subject agift:Medical-research ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0141 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s092
+    a rdf:Statement ;
+    rdf:subject agift:Indigenous-welfare-programs ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0621 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s093
+    a rdf:Statement ;
+    rdf:subject agift:Road-surface-maintenance ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:1111 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s094
+    a rdf:Statement ;
+    rdf:subject agift:Navigation-systems-development ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:118 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s095
+    a rdf:Statement ;
+    rdf:subject agift:Defence-attaches ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:021 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s096
+    a rdf:Statement ;
+    rdf:subject agift:Disaster-recovery ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:1091 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s097
+    a rdf:Statement ;
+    rdf:subject agift:Transport-infrastructure-development ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:1181 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s098
+    a rdf:Statement ;
+    rdf:subject agift:Clinical-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s099
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-centre-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0829 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s100
+    a rdf:Statement ;
+    rdf:subject agift:Passenger-services ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:1131 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s101
+    a rdf:Statement ;
+    rdf:subject agift:Navigation-systems-development ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:1181 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s102
+    a rdf:Statement ;
+    rdf:subject agift:Medical-research ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:077 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s103
+    a rdf:Statement ;
+    rdf:subject agift:HEALTH-CARE ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s104
+    a rdf:Statement ;
+    rdf:subject agift:Community-health-services ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:075 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s105
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-policy ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0231 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s106
+    a rdf:Statement ;
+    rdf:subject agift:Population-based-research ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:047 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s107
+    a rdf:Statement ;
+    rdf:subject agift:Health-protocol-administration ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s108
+    a rdf:Statement ;
+    rdf:subject agift:Mental-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0761 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s109
+    a rdf:Statement ;
+    rdf:subject agift:Caravan-and-camping-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0811 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s110
+    a rdf:Statement ;
+    rdf:subject agift:Defence-personnel-exchanges ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:029 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s111
+    a rdf:Statement ;
+    rdf:subject agift:Dental-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0799 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s112
+    a rdf:Statement ;
+    rdf:subject agift:Fiscal-policy ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0112 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s113
+    a rdf:Statement ;
+    rdf:subject agift:Defence-career-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s114
+    a rdf:Statement ;
+    rdf:subject agift:Marine-life-protection-programs ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:055 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s115
+    a rdf:Statement ;
+    rdf:subject agift:Adult-migrant-education ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:09 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s116
+    a rdf:Statement ;
+    rdf:subject agift:Environmental-impact-assessment ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0599 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s117
+    a rdf:Statement ;
+    rdf:subject agift:Waste-management ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0519 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s118
+    a rdf:Statement ;
+    rdf:subject agift:Disaster-support ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:1091 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s119
+    a rdf:Statement ;
+    rdf:subject agift:Water-usage-management ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:052 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s120
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0759 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s121
+    a rdf:Statement ;
+    rdf:subject agift:Defence-estate-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:029 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s122
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-festivals ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0829 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s123
+    a rdf:Statement ;
+    rdf:subject agift:Public-debt ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0161 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s124
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-centre-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:082 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s125
+    a rdf:Statement ;
+    rdf:subject agift:Indigenous-enterprise-development ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0621 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s126
+    a rdf:Statement ;
+    rdf:subject agift:Economic-research ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:047 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s127
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-policy ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s128
+    a rdf:Statement ;
+    rdf:subject agift:Cargo-control ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0391 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s129
+    a rdf:Statement ;
+    rdf:subject agift:Adult-education-programs ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0932 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s130
+    a rdf:Statement ;
+    rdf:subject agift:Civil-community-assistance ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0699 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s131
+    a rdf:Statement ;
+    rdf:subject agift:Community-education ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:062 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s132
+    a rdf:Statement ;
+    rdf:subject agift:Corrective-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0311 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s133
+    a rdf:Statement ;
+    rdf:subject agift:Rural-community-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0621 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s134
+    a rdf:Statement ;
+    rdf:subject agift:Military-exercises ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0211 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s135
+    a rdf:Statement ;
+    rdf:subject agift:Patient-care ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s136
+    a rdf:Statement ;
+    rdf:subject agift:Community-housing ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:061 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s137
+    a rdf:Statement ;
+    rdf:subject agift:Medical-radiation-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s138
+    a rdf:Statement ;
+    rdf:subject agift:Marine-life-protection-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:05 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s139
+    a rdf:Statement ;
+    rdf:subject agift:Defence-reform-program ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s140
+    a rdf:Statement ;
+    rdf:subject agift:Caravan-and-camping-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:081 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s141
+    a rdf:Statement ;
+    rdf:subject agift:Water-resources ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0441 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s142
+    a rdf:Statement ;
+    rdf:subject agift:Defence-college-training ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s143
+    a rdf:Statement ;
+    rdf:subject agift:Military-education-and-training ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0211 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s144
+    a rdf:Statement ;
+    rdf:subject agift:Environmental-impact-assessment ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:059 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s145
+    a rdf:Statement ;
+    rdf:subject agift:Transport-infrastructure-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:119 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s146
+    a rdf:Statement ;
+    rdf:subject agift:Defence-science-and-technology ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:023 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s147
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0829 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s148
+    a rdf:Statement ;
+    rdf:subject agift:Energy-supply ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:043 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s149
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s150
+    a rdf:Statement ;
+    rdf:subject agift:Hospital-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:076 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s151
+    a rdf:Statement ;
+    rdf:subject agift:Water-quality-monitoring ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0529 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s152
+    a rdf:Statement ;
+    rdf:subject agift:Transport-infrastructure-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:1199 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s153
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-support ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s154
+    a rdf:Statement ;
+    rdf:subject agift:Hospital-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0761 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s155
+    a rdf:Statement ;
+    rdf:subject agift:Dental-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:075 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s156
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:06 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s157
+    a rdf:Statement ;
+    rdf:subject agift:Air-transport ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:115 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s158
+    a rdf:Statement ;
+    rdf:subject agift:Veterans-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0799 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s159
+    a rdf:Statement ;
+    rdf:subject agift:Defence-science-and-technology ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s160
+    a rdf:Statement ;
+    rdf:subject agift:Community-education ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:09 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s161
+    a rdf:Statement ;
+    rdf:subject agift:Public-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0199 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s162
+    a rdf:Statement ;
+    rdf:subject agift:Counselling-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:075 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s163
+    a rdf:Statement ;
+    rdf:subject agift:Health-insurance-schemes ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s164
+    a rdf:Statement ;
+    rdf:subject agift:Interpreter-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:082 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s165
+    a rdf:Statement ;
+    rdf:subject agift:Waste-management ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:051 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s166
+    a rdf:Statement ;
+    rdf:subject agift:Park-and-reserve-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:01 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s167
+    a rdf:Statement ;
+    rdf:subject agift:Law-enforcement ;
+    rdf:predicate skos:realtedMatch ;
+    rdf:object cofoga:0331 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s168
+    a rdf:Statement ;
+    rdf:subject agift:Independent-living-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:013 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s169
+    a rdf:Statement ;
+    rdf:subject agift:Product-safety ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:039 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s170
+    a rdf:Statement ;
+    rdf:subject agift:Park-and-reserve-services ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0811 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s171
+    a rdf:Statement ;
+    rdf:subject agift:Health-disaster-preparedness ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s172
+    a rdf:Statement ;
+    rdf:subject agift:International-affairs ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0113 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s173
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-policy ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:029 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s174
+    a rdf:Statement ;
+    rdf:subject agift:Curriculum-development ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:096 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s175
+    a rdf:Statement ;
+    rdf:subject agift:Vocational-education ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:093 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s176
+    a rdf:Statement ;
+    rdf:subject agift:EDUCATION-AND-TRAINING ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0932 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s177
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-support ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:029 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s178
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0841 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s179
+    a rdf:Statement ;
+    rdf:subject agift:Freight-movement-regulation ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:1142 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s180
+    a rdf:Statement ;
+    rdf:subject agift:Mental-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0721 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s181
+    a rdf:Statement ;
+    rdf:subject agift:Military-bands ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0211 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s182
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0751 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s183
+    a rdf:Statement ;
+    rdf:subject agift:Forestry-industry ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:042 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s184
+    a rdf:Statement ;
+    rdf:subject agift:Defence-force-careers ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s185
+    a rdf:Statement ;
+    rdf:subject agift:Community-recreational-programs ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:081 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s186
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:029 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s187
+    a rdf:Statement ;
+    rdf:subject agift:Military-advisors ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0211 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s188
+    a rdf:Statement ;
+    rdf:subject agift:Water-conservation-plans ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:063 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s189
+    a rdf:Statement ;
+    rdf:subject agift:Electronic-publishing ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0832 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s190
+    a rdf:Statement ;
+    rdf:subject agift:Public-health-services ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0759 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s191
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-festivals ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:082 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s192
+    a rdf:Statement ;
+    rdf:subject agift:Community-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s193
+    a rdf:Statement ;
+    rdf:subject agift:Tertiary-education ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:093 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s194
+    a rdf:Statement ;
+    rdf:subject agift:Hospital-services ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0732 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s195
+    a rdf:Statement ;
+    rdf:subject agift:Marine-life-protection-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:059 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s196
+    a rdf:Statement ;
+    rdf:subject agift:Rural-community-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:062 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s197
+    a rdf:Statement ;
+    rdf:subject agift:Mental-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s198
+    a rdf:Statement ;
+    rdf:subject agift:Overseas-aid-programs ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:022 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s199
+    a rdf:Statement ;
+    rdf:subject agift:Water-usage-management ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0529 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s200
+    a rdf:Statement ;
+    rdf:subject agift:Mining-regulations ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:044 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s201
+    a rdf:Statement ;
+    rdf:subject agift:Mining-regulations ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0474 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s202
+    a rdf:Statement ;
+    rdf:subject agift:Veterans-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s203
+    a rdf:Statement ;
+    rdf:subject agift:Early-childhood-education ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:091 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s204
+    a rdf:Statement ;
+    rdf:subject agift:Nuclear-safeguards ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0433 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s205
+    a rdf:Statement ;
+    rdf:subject agift:Early-childhood-education ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:09 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s206
+    a rdf:Statement ;
+    rdf:subject agift:Marine-life-protection-programs ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:054 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s207
+    a rdf:Statement ;
+    rdf:subject agift:Personnel-safety-standards ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:035 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s208
+    a rdf:Statement ;
+    rdf:subject agift:Hospital-services ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:073 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s209
+    a rdf:Statement ;
+    rdf:subject agift:Population-based-research ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:014 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s210
+    a rdf:Statement ;
+    rdf:subject agift:Health-disaster-preparedness ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:079 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s211
+    a rdf:Statement ;
+    rdf:subject agift:Arts-education ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:09 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s212
+    a rdf:Statement ;
+    rdf:subject agift:Waterway-management ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:113 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s213
+    a rdf:Statement ;
+    rdf:subject agift:Waste-management ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:052 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s214
+    a rdf:Statement ;
+    rdf:subject agift:Mineral-exploration ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0431 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s215
+    a rdf:Statement ;
+    rdf:subject agift:Passenger-services ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:1132 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s216
+    a rdf:Statement ;
+    rdf:subject agift:Defence-force-careers ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:029 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s217
+    a rdf:Statement ;
+    rdf:subject agift:Dental-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s218
+    a rdf:Statement ;
+    rdf:subject agift:Border-protection ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:10 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s219
+    a rdf:Statement ;
+    rdf:subject agift:Wilderness-area-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0599 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s220
+    a rdf:Statement ;
+    rdf:subject agift:NATURAL-RESOURCES ;
+    rdf:predicate skos:narrowerMatch ;
+    rdf:object cofoga:0432 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s221
+    a rdf:Statement ;
+    rdf:subject agift:Mineral-resources ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0431 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s222
+    a rdf:Statement ;
+    rdf:subject agift:Gambling-support-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0751 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s223
+    a rdf:Statement ;
+    rdf:subject agift:Community-housing ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0651 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s224
+    a rdf:Statement ;
+    rdf:subject agift:EDUCATION-AND-TRAINING ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:09 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s225
+    a rdf:Statement ;
+    rdf:subject agift:Defence-reform-program ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:029 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s226
+    a rdf:Statement ;
+    rdf:subject agift:Hospital-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s227
+    a rdf:Statement ;
+    rdf:subject agift:Civil-law ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:033 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s228
+    a rdf:Statement ;
+    rdf:subject agift:Waste-management ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0529 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s229
+    a rdf:Statement ;
+    rdf:subject agift:Medical-aids-regulation ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0721 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s230
+    a rdf:Statement ;
+    rdf:subject agift:Defence-personnel-exchanges ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s231
+    a rdf:Statement ;
+    rdf:subject agift:Energy-resources ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:043 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s232
+    a rdf:Statement ;
+    rdf:subject agift:Medical-and-health-sciences ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s233
+    a rdf:Statement ;
+    rdf:subject agift:Public-health-services ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:075 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s234
+    a rdf:Statement ;
+    rdf:subject agift:Community-support ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:062 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s235
+    a rdf:Statement ;
+    rdf:subject agift:Overseas-aid-programs ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0122 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s236
+    a rdf:Statement ;
+    rdf:subject agift:Water-quality-monitoring ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:052 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s237
+    a rdf:Statement ;
+    rdf:subject agift:Wildlife-sanctuary-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0599 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s238
+    a rdf:Statement ;
+    rdf:subject agift:Community-recreational-programs ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0811 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s239
+    a rdf:Statement ;
+    rdf:subject agift:Mental-health-services ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:074 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s240
+    a rdf:Statement ;
+    rdf:subject agift:Mental-health-services ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:0751 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s241
+    a rdf:Statement ;
+    rdf:subject agift:Overseas-aid-programs ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0221 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s242
+    a rdf:Statement ;
+    rdf:subject agift:Medical-research-funding ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0771 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s243
+    a rdf:Statement ;
+    rdf:subject agift:Financial-system-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0112 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s244
+    a rdf:Statement ;
+    rdf:subject agift:Indigenous-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s245
+    a rdf:Statement ;
+    rdf:subject agift:Water-conservation-plans ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0631 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s246
+    a rdf:Statement ;
+    rdf:subject agift:Health-hazard-prevention ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0799 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s247
+    a rdf:Statement ;
+    rdf:subject agift:Community-housing ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:1051 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s248
+    a rdf:Statement ;
+    rdf:subject agift:Adult-education-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:09 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s249
+    a rdf:Statement ;
+    rdf:subject agift:Endangered-species-protection ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:054 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s250
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-awards-and-scholarships ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:082 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s251
+    a rdf:Statement ;
+    rdf:subject agift:Cultural-awards-and-scholarships ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0829 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s252
+    a rdf:Statement ;
+    rdf:subject agift:Military-operations ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0211 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s253
+    a rdf:Statement ;
+    rdf:subject agift:Defence-force-careers ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0299 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s254
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:084 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s255
+    a rdf:Statement ;
+    rdf:subject agift:Medical-research ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0771 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s256
+    a rdf:Statement ;
+    rdf:subject agift:Water-quality-monitoring ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:063 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s257
+    a rdf:Statement ;
+    rdf:subject agift:Overseas-aid-programs ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0121 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s258
+    a rdf:Statement ;
+    rdf:subject agift:Passenger-services ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:1141 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s259
+    a rdf:Statement ;
+    rdf:subject agift:Veterans-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:079 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s260
+    a rdf:Statement ;
+    rdf:subject agift:Air-transport-safety ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:1151 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s261
+    a rdf:Statement ;
+    rdf:subject agift:Forestry-industry ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0472 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s262
+    a rdf:Statement ;
+    rdf:subject agift:Mobile-telephone-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:083 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s263
+    a rdf:Statement ;
+    rdf:subject agift:INTERNATIONAL-RELATIONS ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:0113 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s264
+    a rdf:Statement ;
+    rdf:subject agift:Water-usage-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0631 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s265
+    a rdf:Statement ;
+    rdf:subject agift:Disaster-relief ;
+    rdf:predicate skos:exactMatch ;
+    rdf:object cofoga:1091 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s266
+    a rdf:Statement ;
+    rdf:subject agift:Environmental-impact-assessment ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:05 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s267
+    a rdf:Statement ;
+    rdf:subject agift:Gambling-support-services ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:075 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s268
+    a rdf:Statement ;
+    rdf:subject agift:Defence-housing ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:1051 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s269
+    a rdf:Statement ;
+    rdf:subject agift:Air-transport-safety ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:115 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s270
+    a rdf:Statement ;
+    rdf:subject agift:Personnel-safety-standards ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:039 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s271
+    a rdf:Statement ;
+    rdf:subject agift:Community-housing ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:065 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s272
+    a rdf:Statement ;
+    rdf:subject agift:Mineral-exploration ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0441 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s273
+    a rdf:Statement ;
+    rdf:subject agift:Defence-housing ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s274
+    a rdf:Statement ;
+    rdf:subject agift:Defence-efficiency-review ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:029 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s275
+    a rdf:Statement ;
+    rdf:subject agift:Military-law ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0211 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s276
+    a rdf:Statement ;
+    rdf:subject agift:Forestry-industry ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:0422 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s277
+    a rdf:Statement ;
+    rdf:subject agift:Veterans-health-services ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:075 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s278
+    a rdf:Statement ;
+    rdf:subject agift:Marine-life-protection-programs ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0541 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s279
+    a rdf:Statement ;
+    rdf:subject agift:Freight-movement-regulation ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:1132 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s280
+    a rdf:Statement ;
+    rdf:subject agift:Personnel-safety-standards ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0351 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s281
+    a rdf:Statement ;
+    rdf:subject agift:Park-and-reserve-services ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:081 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s282
+    a rdf:Statement ;
+    rdf:subject agift:Labour-market-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0412 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s283
+    a rdf:Statement ;
+    rdf:subject agift:Mineral-resources ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0441 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s284
+    a rdf:Statement ;
+    rdf:subject agift:DEFENCE ;
+    rdf:predicate skos:narrowerMatch ;
+    rdf:object cofoga:021 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s285
+    a rdf:Statement ;
+    rdf:subject agift:NATURAL-RESOURCES ;
+    rdf:predicate skos:narrowerMatch ;
+    rdf:object cofoga:0441 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s286
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-development ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0299 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s287
+    a rdf:Statement ;
+    rdf:subject agift:Product-safety ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:03 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s288
+    a rdf:Statement ;
+    rdf:subject agift:Health-hazard-prevention ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:07 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s289
+    a rdf:Statement ;
+    rdf:subject agift:Curriculum-development ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:0961 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s290
+    a rdf:Statement ;
+    rdf:subject agift:Defence-estate-management ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:02 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s291
+    a rdf:Statement ;
+    rdf:subject agift:Financial-budgeting ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0112 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s292
+    a rdf:Statement ;
+    rdf:subject agift:Defence-strategic-support ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0299 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s293
+    a rdf:Statement ;
+    rdf:subject agift:Indigenous-cultural-heritage ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:082 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s294
+    a rdf:Statement ;
+    rdf:subject agift:Police-administration ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:0311 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.

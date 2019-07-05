@@ -1,0 +1,52 @@
+@prefix : <http://linked.data.gov.au/dataset/agiftcofoga/> .
+@prefix agift: <http://data.naa.gov.au/def/agift/> .
+@prefix cofoga: <http://linked.data.gov.au/def/cofoga/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix loci: <http://linked.data.gov.au/def/loci#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sdo: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+<http://linked.data.gov.au/dataset/agiftcofoga>
+    a loci:Linkset ;
+    dct:title "AGIFT / COFOG-A Linkset" ;
+    dct:description """This Linkset contains [SKOS mapping properties](https://www.w3.org/TR/skos-reference/#mapping) between Concepts in the [AGIFT](http://data.naa.gov.au/def/agift) and Concepts in the [COFOG-A](http://linked.data.gov.au/def/cofog) vocabularies.
+
+AGIFT, "Australian Governments' Interactive Functions Thesaurus", from the [National Archives of Australia (NAA)](http://www.naa.gov.au), is a "three-level hierarchical thesaurus that describes the business functions carried out across Commonwealth, state and local governments in Australia".
+
+The COFOG-A is an Australian version of the UN's Statistical office's COFOG, "Classification of the Functions of Government", issued by the from the [Australian Bureau of Statistics](http://www.abs.gov.au) in the [Australian System of Government Finance Statistics: Concepts, Sources and Methods](http://www.ausstats.abs.gov.au/ausstats/subscriber.nsf/0/418BDDEBD088A012CA257F230019D433/$File/55140_2015.pdf) which is represented as a SKOS vocabulary online at <http://linked.data.gov.au/def/cofog-a>."""@en ;
+    dct:publisher [
+        sdo:identifier <http://catalogue.linked.data.gov.au/org/csiro> ;
+        sdo:name "CSIRO" ;
+    ] ;
+    dct:creator :nick ;
+    dct:created "2019-07-01"^^xsd:date ;
+    # dct:issued ""^^xsd:date ; # not given yet
+    # dct:modified ""^^xsd:date ; # not given yet
+    void:subjectsTarget <https://data.naa.gov.au/def/cofog-a> ;
+    void:linkPredicate skos:broadMatch , skos:closeMatch , skos:exactMatch , skos:narrowMatch , skos:relatedMatch ;
+    void:objectsTarget <http://linked.data.gov.au/def/cofog> ;
+    loci:hadGenerationMethod :method .
+
+
+:method a prov:Plan ;
+    rdfs:label "Python and Excel processing" ;
+    rdfs:seeAlso <https://github.com/CSIRO-enviro-informatics/agiftcofoga-linkset/method> ;
+    rdfs:comment "The method used to create this linkset, described in the code repository housing the Linkset data" ;
+    prov:wasAttributedTo :nick ;
+    prov:generatedAtTime "2019-07-01"^^xsd:date .
+
+
+:nick
+    sdo:email "nicholas.car@csiro.au" ;
+    sdo:identifier <http://orcid.org/0000-0002-8742-7730> ;
+    sdo:memberOf [
+        sdo:identifier <http://catalogue.linked.data.gov.au/org/csiro> ;
+        sdo:name "CSIRO"
+    ] ;
+    sdo:name "Nicholas J. Car" .

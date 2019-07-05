@@ -1,0 +1,54 @@
+@prefix : <http://linked.data.gov.au/dataset/agiftcofoga/> .
+@prefix agift: <http://data.naa.gov.au/def/agift/> .
+@prefix cofoga: <http://linked.data.gov.au/def/cofoga/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix loci: <http://linked.data.gov.au/def/loci#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+:s248
+    a rdf:Statement ;
+    rdf:subject agift:Adult-education-programs ;
+    rdf:predicate skos:broadMatch ;
+    rdf:object cofoga:09 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s183
+    a rdf:Statement ;
+    rdf:subject agift:Forestry-industry ;
+    rdf:predicate skos:closeMatch ;
+    rdf:object cofoga:042 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s013
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:075 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s120
+    a rdf:Statement ;
+    rdf:subject agift:COMMUNITY-SERVICES ;
+    rdf:predicate skos:narrowMatch ;
+    rdf:object cofoga:0759 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.
+
+:s179
+    a rdf:Statement ;
+    rdf:subject agift:Freight-movement-regulation ;
+    rdf:predicate skos:relatedMatch ;
+    rdf:object cofoga:1142 ;
+    dct:created "2019-07-02"^^xsd:date ;
+    loci:hadGenerationMethod :method ;
+.

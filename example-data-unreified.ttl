@@ -1,0 +1,7 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.naa.gov.au/def/agift/Adult-education-programs> skos:broadMatch <http://linked.data.gov.au/def/cofog-a/09> .
+<https://data.naa.gov.au/def/agift/Forestry-industry> skos:closeMatch <http://linked.data.gov.au/def/cofog-a/042> .
+<https://data.naa.gov.au/def/agift/COMMUNITY-SERVICES> skos:narrowMatch <http://linked.data.gov.au/def/cofog-a/075> .
+<https://data.naa.gov.au/def/agift/COMMUNITY-SERVICES> skos:narrowMatch <http://linked.data.gov.au/def/cofog-a/0759> .
+<https://data.naa.gov.au/def/agift/Freight-movement-regulation> skos:relatedMatch <http://linked.data.gov.au/def/cofog-a/1142> .

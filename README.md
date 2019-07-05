@@ -1,11 +1,23 @@
 # AGIFT / COFOG-A Linkset
 This code repository contains a Linkset - a specialised Dataset linking objects in two other Datasets.
 
-This Linkset contains [SKOS mapping properties](https://www.w3.org/TR/skos-reference/#mapping) between Concepts in the [AGIFT](http://data.naa.gov.au/def/agift) and Concepts in the [COFOG-A](http://linked.data.gov.au/def/cofog) vocabularies.
+This Linkset contains [SKOS mapping properties](https://www.w3.org/TR/skos-reference/#mapping) between Concepts in the [AGIFT](http://data.naa.gov.au/def/agift) and Concepts in the [COFOG-A](http://linked.data.gov.au/def/cofog-a) vocabularies.
 
 AGIFT, "Australian Governments' Interactive Functions Thesaurus", from the [National Archives of Australia (NAA)](http://www.naa.gov.au), is a "three-level hierarchical thesaurus that describes the business functions carried out across Commonwealth, state and local governments in Australia".
 
 The COFOG-A is an Australian version of the UN's Statistical office's COFOG, "Classification of the Functions of Government", issued by the from the [Australian Bureau of Statistics](http://www.abs.gov.au) in the [Australian System of Government Finance Statistics: Concepts, Sources and Methods](http://www.ausstats.abs.gov.au/ausstats/subscriber.nsf/0/418BDDEBD088A012CA257F230019D433/$File/55140_2015.pdf) which is represented as a SKOS vocabulary online at <http://linked.data.gov.au/def/cofog-a>.
+
+
+## Linkset relations
+This Linkset uses only [SKOS Mapping Properties](https://www.w3.org/TR/skos-reference/#mapping) to map between AGIFT & COFOG-A. Only the following properties are used:
+
+* `skos:closeMatch`
+* `skos:exactMatch`
+* `skos:broadMatch`
+* `skos:narrowMatch`
+* `skos:relatedMatch`
+
+See [example-data-unreified.ttl](example-data-unreified.ttl) for 5 simple examples from the Linkset or [example-data.ttl](example-data.ttl) for the same 5 examples presented in *reified* form, that is with per-link metadata, such as time of creation and method used.
 
 
 ## Repository Contents
