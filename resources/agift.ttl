@@ -106,14 +106,14 @@
     skos:definition "Management of appointments authorised by the Governor-General and Prime-Minister to support portfolio responsibilities. "@en ;
     skos:prefLabel "Appointment management"@en .
 
-<https://data.naa.gov.au/def/agift/Arts-funding--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Arts-funding> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:26:08+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:46:25+00:00"^^xsd:dateTime ;
-    skos:altLabel "Art subsidy schemes  "@en,
-        "Artistic grants  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Arts-development--> ;
+    skos:altLabel "Art subsidy schemes"@en,
+        "Artistic grants"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Arts-development> ;
     skos:definition "Providing financial support for the production of skilled performance or craft. Assessing applications for funding. Allocating grants and subsidies to projects that meet selection criteria. Advising artists about funding programs and application procedures. "@en ;
     skos:prefLabel "Arts funding"@en .
 
@@ -410,7 +410,7 @@
     dcterms:modified "2016-08-30T06:43:49+00:00"^^xsd:dateTime ;
     skos:altLabel "Research ethics"@en ;
     skos:broader <https://data.naa.gov.au/def/agift/SCIENCE> ;
-    skos:definition "Administering programs to ensure research is carried out in an acceptable manner. Assessing research methods against accepted moral principles and standards of conduct. Monitoring activities, performing inspections and handling complaints.   "@en ;
+    skos:definition "Administering programs to ensure research is carried out in an acceptable manner. Assessing research methods against accepted moral principles and standards of conduct. Monitoring activities, performing inspections and handling complaints. "@en ;
     skos:prefLabel "Ethical compliance"@en .
 
 <https://data.naa.gov.au/def/agift/Exchange-rates> a skos:Concept ;
@@ -659,7 +659,7 @@
         "Marine pilotage"@en,
         "Vessel piloting"@en ;
     skos:broader <https://data.naa.gov.au/def/agift/MARITIME-SERVICES> ;
-    skos:definition "Providing qualified operators to steer vessels into and out of ports. Monitoring pilotage procedures and clarifying the responsibilities of pilots and pilotage providers. Developing and administering standards for pilotage operations that support international requirements.  "@en ;
+    skos:definition "Providing qualified operators to steer vessels into and out of ports. Monitoring pilotage procedures and clarifying the responsibilities of pilots and pilotage providers. Developing and administering standards for pilotage operations that support international requirements."@en ;
     skos:prefLabel "Pilotage management"@en .
 
 <https://data.naa.gov.au/def/agift/Place-names> a skos:Concept ;
@@ -779,8 +779,8 @@
     dcterms:creator "superadmin"^^xsd:string ;
     dcterms:modified "2016-08-30T06:14:15+00:00"^^xsd:dateTime ;
     skos:altLabel "Agricultural shows"@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2> ;
-    skos:definition "Developing programs to support shows, exhibitions and conferences to encourage agricultural innovation. Includes financial assistance and advice on planning and marketing strategies.  "@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES> ;
+    skos:definition "Developing programs to support shows, exhibitions and conferences to encourage agricultural innovation. Includes financial assistance and advice on planning and marketing strategies."@en ;
     skos:prefLabel "Rural field day promotion"@en .
 
 <https://data.naa.gov.au/def/agift/Seaworthiness> a skos:Concept ;
@@ -893,7 +893,7 @@
     dcterms:creator "superadmin"^^xsd:string ;
     dcterms:modified "2016-07-07T00:39:36+00:00"^^xsd:dateTime ;
     skos:broader <https://data.naa.gov.au/def/agift/TOURISM> ;
-    skos:definition "Marketing activities carried out overseas for the promotion of Australia or specific regions as a travel and tourism destination. Organising meetings between members of the Australian tourism industry, travel agents and overseas tour operators. Includes familiarisation tours in Australia for international travel agents, tour operators and members of the travel press.  "@en ;
+    skos:definition "Marketing activities carried out overseas for the promotion of Australia or specific regions as a travel and tourism destination. Organising meetings between members of the Australian tourism industry, travel agents and overseas tour operators. Includes familiarisation tours in Australia for international travel agents, tour operators and members of the travel press."@en ;
     skos:prefLabel "Travel missions"@en .
 
 <https://data.naa.gov.au/def/agift/World-heritage-listings> a skos:Concept ;
@@ -918,28 +918,28 @@
     skos:prefLabel "Administrative decision review"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Administrative-decision-appeal> .
 
-<https://data.naa.gov.au/def/agift/Arts-incentive-schemes--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Arts-incentive-schemes> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:26:13+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:46:34+00:00"^^xsd:dateTime ;
-    skos:altLabel "Register of cultural organisations  "@en,
-        "Taxation incentives for the arts  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Arts-development--> ;
+    skos:altLabel "Register of cultural organisations"@en,
+        "Taxation incentives for the arts"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Arts-development> ;
     skos:definition "Developing strategies to encourage investment in artistic activities or moveable cultural materials. Negotiating tax deductions for approved activities and setting guidelines for donor benefits. Certifying valuers to assess the worth of artistic works. Maintaining a register of cultural organisations qualified to offer incentives. "@en ;
     skos:prefLabel "Arts incentive schemes"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Cultural-gifts-programs--> .
+    skos:related <https://data.naa.gov.au/def/agift/Cultural-gifts-programs> .
 
-<https://data.naa.gov.au/def/agift/Arts-promotion--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Arts-promotion> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:26:19+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:46:40+00:00"^^xsd:dateTime ;
-    skos:altLabel "Arts marketing  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Arts-development--> ;
+    skos:altLabel "Arts marketing"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Arts-development> ;
     skos:definition "Managing programs to encourage participation in artistic pursuits and support for performances or exhibitions. Developing strategies for marketing and information dissemination to raise community awareness of the arts."@en ;
     skos:prefLabel "Arts promotion"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Collection-promotion--> .
+    skos:related <https://data.naa.gov.au/def/agift/Collection-promotion> .
 
 <https://data.naa.gov.au/def/agift/Astronomical-sciences> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -1121,17 +1121,17 @@
     skos:broader <https://data.naa.gov.au/def/agift/Indigenous-cultural-heritage> ;
     skos:definition "Developing policy to safeguard custodial rights over indigenous cultural heritage property. Implementing programs to return indigenous relics, artworks, human remains and other items of cultural significance to their traditional owners or custodians."@en ;
     skos:prefLabel "Cultural artefact repatriation"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Artefact-export-regulation--> .
+    skos:related <https://data.naa.gov.au/def/agift/Artefact-export-regulation> .
 
-<https://data.naa.gov.au/def/agift/Cultural-awards-and-scholarships--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Cultural-awards-and-scholarships> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:22:37+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:48:31+00:00"^^xsd:dateTime ;
-    skos:altLabel "Awards and scholarships  "@en,
-        "Cultural scholarship programs  "@en,
-        "Scholarship programs  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> ;
+    skos:altLabel "Awards and scholarships"@en,
+        "Cultural scholarship programs"@en,
+        "Scholarship programs"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> ;
     skos:definition "Developing schemes to confer prizes for achievement in artistic, literary or heritage-related activities. Providing grants to cultural-sector students of high merit. Includes promotional activities, assessing applications and managing payments."@en ;
     skos:prefLabel "Cultural awards and scholarships"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Honours-and-awards-programs> .
@@ -1433,18 +1433,18 @@
     skos:prefLabel "Presentation arrangements"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Civic-celebrations> .
 
-<https://data.naa.gov.au/def/agift/Preservation-services--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Preservation-services> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:34:26+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:47:59+00:00"^^xsd:dateTime ;
-    skos:altLabel "Collection preservation  "@en,
-        "Conservation services  "@en,
-        "Restoration services  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-management--> ;
+    skos:altLabel "Collection preservation"@en,
+        "Conservation services"@en,
+        "Restoration services"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-management> ;
     skos:definition "Developing strategies to protect and conserve material in cultural collections. Applying treatments to prevent decomposition over time or through excessive handling. Includes repair of badly damaged items or transfer to stable media. "@en ;
     skos:prefLabel "Preservation services"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Collection-storage--> .
+    skos:related <https://data.naa.gov.au/def/agift/Collection-storage> .
 
 <https://data.naa.gov.au/def/agift/Professional-accreditation> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -1595,7 +1595,7 @@
     skos:broader <https://data.naa.gov.au/def/agift/Community-recreational-programs> ;
     skos:definition "Providing financial assistance and services for community-based and non-profit organisations that promote friendship and recreation. Raising awareness of local groups though sponsorship, advertising and facilitating links between organisations."@en ;
     skos:prefLabel "Social club support"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Multicultural-services--> .
+    skos:related <https://data.naa.gov.au/def/agift/Multicultural-services> .
 
 <https://data.naa.gov.au/def/agift/Special-needs-programs> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -1780,7 +1780,7 @@
     skos:related <https://data.naa.gov.au/def/agift/Child-care-services>,
         <https://data.naa.gov.au/def/agift/Family-reunion-programs> .
 
-<https://data.naa.gov.au/def/agift/Advertising-campaigns_2> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Advertising-campaigns> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
     dcterms:created "2016-07-06T05:12:05+00:00"^^xsd:dateTime ;
     dcterms:creator "superadmin"^^xsd:string ;
@@ -1960,7 +1960,7 @@
     skos:related <https://data.naa.gov.au/def/agift/Land-use-zoning>,
         <https://data.naa.gov.au/def/agift/Town-planning> .
 
-<https://data.naa.gov.au/def/agift/Business-process-auditing_2> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Business-process-auditing> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
     dcterms:created "2016-08-04T06:07:15+00:00"^^xsd:dateTime ;
     dcterms:creator "KOdea"^^xsd:string ;
@@ -2010,19 +2010,19 @@
     skos:related <https://data.naa.gov.au/def/agift/Atmospheric-sciences>,
         <https://data.naa.gov.au/def/agift/Natural-disasters> .
 
-<https://data.naa.gov.au/def/agift/Collection-storage--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Collection-storage> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:34:22+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:47:53+00:00"^^xsd:dateTime ;
-    skos:altLabel "Records storage  "@en,
-        "Repository management  "@en,
-        "Stack management  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-management--> ;
+    skos:altLabel "Records storage"@en,
+        "Repository management"@en,
+        "Stack management"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-management> ;
     skos:definition "Designing and managing facilities to house materials held by cultural institutions. Ensuring environmental conditions meet appropriate industry standards. Arranging facilities to support access and preservation guidelines."@en ;
     skos:prefLabel "Collection storage"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Cultural-centre-management>,
-        <https://data.naa.gov.au/def/agift/Preservation-services--> .
+        <https://data.naa.gov.au/def/agift/Preservation-services> .
 
 <https://data.naa.gov.au/def/agift/Community-based-corrections> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -2165,21 +2165,21 @@
     skos:broader <https://data.naa.gov.au/def/agift/Public-land-management> ;
     skos:definition "Administering buildings that house cultural collections or are set aside for community use. Ensuring facilities are kept clean and maintained. Monitoring rights of access and opening hours. Taking bookings and liaising with event organisers."@en ;
     skos:prefLabel "Cultural centre management"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2>,
-        <https://data.naa.gov.au/def/agift/Collection-storage--> .
+    skos:related <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS>,
+        <https://data.naa.gov.au/def/agift/Collection-storage> .
 
-<https://data.naa.gov.au/def/agift/Cultural-gifts-programs--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Cultural-gifts-programs> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:22:44+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:48:43+00:00"^^xsd:dateTime ;
-    skos:altLabel "Art donation schemes  "@en,
-        "Public donations  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> ;
+    skos:altLabel "Art donation schemes"@en,
+        "Public donations"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> ;
     skos:definition "Managing donations of cultural materials, made under arts incentive schemes. Examining materials to ensure they conform to collection development policies. Setting guidelines for the acceptance of gifts. Determining access restrictions, intellectual property rights and legal title over materials. Organising independent valuations and making submissions to the relevant taxation incentives body. "@en ;
     skos:prefLabel "Cultural gifts programs"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Arts-incentive-schemes-->,
-        <https://data.naa.gov.au/def/agift/Collection-acquisition--> .
+    skos:related <https://data.naa.gov.au/def/agift/Arts-incentive-schemes>,
+        <https://data.naa.gov.au/def/agift/Collection-acquisition> .
 
 <https://data.naa.gov.au/def/agift/Currency> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -2234,20 +2234,20 @@
     skos:related <https://data.naa.gov.au/def/agift/Capital-equipment-programs>,
         <https://data.naa.gov.au/def/agift/Defence-science-and-technology> .
 
-<https://data.naa.gov.au/def/agift/Descriptive-standards--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Descriptive-standards> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:29:14+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:46:48+00:00"^^xsd:dateTime ;
-    skos:altLabel "Cataloguing standards  "@en,
-        "Classification standards  "@en,
-        "Curatorial standards  "@en,
-        "Indexing standards  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-access--> ;
+    skos:altLabel "Cataloguing standards"@en,
+        "Classification standards"@en,
+        "Curatorial standards"@en,
+        "Indexing standards"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-access> ;
     skos:definition "Developing and implementing agreed models to explain the content, extent and format of items in cultural collections. Includes cooperative efforts to promote common descriptive standards across a range of cultural institutions."@en ;
     skos:prefLabel "Descriptive standards"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Collection-accessioning-->,
-        <https://data.naa.gov.au/def/agift/Finding-aids-development--> .
+    skos:related <https://data.naa.gov.au/def/agift/Collection-accessioning>,
+        <https://data.naa.gov.au/def/agift/Finding-aids-development> .
 
 <https://data.naa.gov.au/def/agift/Detention-centre-management> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -2350,17 +2350,17 @@
     skos:related <https://data.naa.gov.au/def/agift/Animal-and-veterinary-sciences>,
         <https://data.naa.gov.au/def/agift/Chemical-and-pesticide-regulation> .
 
-<https://data.naa.gov.au/def/agift/Exhibition-programs--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Exhibition-programs> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:41:27+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:48:13+00:00"^^xsd:dateTime ;
-    skos:altLabel "Displays and exhibitions  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-promotion--> ;
+    skos:altLabel "Displays and exhibitions"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-promotion> ;
     skos:definition "Planning and implementing displays of material from cultural collections. Conducting research and selecting items for inclusion in displays. Identifying relevant material in other collections. Ensuring installations meet preservation requirements. "@en ;
     skos:prefLabel "Exhibition programs"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Collection-acquisition-->,
-        <https://data.naa.gov.au/def/agift/Publicity-programs--> .
+    skos:related <https://data.naa.gov.au/def/agift/Collection-acquisition>,
+        <https://data.naa.gov.au/def/agift/Publicity-programs> .
 
 <https://data.naa.gov.au/def/agift/Forestry-industry> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -2506,7 +2506,7 @@
     skos:definition "Coordinating and promoting ceremonies to pay tribute to notable achievements. Establishing selection criteria and the framework of levels of honour. Designing and producing medals. Researching and evaluating nominations. Maintaining a register of awards. Preparing congratulatory messages."@en ;
     skos:prefLabel "Honours and awards programs"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Badges-and-insignia>,
-        <https://data.naa.gov.au/def/agift/Cultural-awards-and-scholarships--> .
+        <https://data.naa.gov.au/def/agift/Cultural-awards-and-scholarships> .
 
 <https://data.naa.gov.au/def/agift/Housing-industry-policy> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -2689,14 +2689,14 @@
     skos:related <https://data.naa.gov.au/def/agift/Earth-sciences>,
         <https://data.naa.gov.au/def/agift/Environmental-impact-assessment> .
 
-<https://data.naa.gov.au/def/agift/Multicultural-services--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Multicultural-services> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:47:02+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:49:03+00:00"^^xsd:dateTime ;
-    skos:altLabel "Cultural diversity programs  "@en,
-        "Ethnic services  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion--> ;
+    skos:altLabel "Cultural diversity programs"@en,
+        "Ethnic services"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion> ;
     skos:definition "Encouraging migrant communities to retain their cultural identity. Establishing and maintaining ethnic cultural resource collections. Providing assistance in the conduct of religious ceremonies or social events. Includes liaison across jurisdictions to support and promote multiculturalism. "@en ;
     skos:prefLabel "Multicultural services"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Migrant-services>,
@@ -2842,7 +2842,7 @@
     skos:broader <https://data.naa.gov.au/def/agift/Export-regulation> ;
     skos:definition "Regulating the international sale and movement out of Australia of restricted goods such as wildlife, heritage artefacts, weaponry, military equipment, nuclear material, chemicals and toxins, electronics, software and technology, currency, illicit drugs. Includes policy development, procedures for inspection and seizure, and liaison with other jurisdictions."@en ;
     skos:prefLabel "Prohibited export control"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Artefact-export-regulation-->,
+    skos:related <https://data.naa.gov.au/def/agift/Artefact-export-regulation>,
         <https://data.naa.gov.au/def/agift/Quarantine> .
 
 <https://data.naa.gov.au/def/agift/Protective-services> a skos:Concept ;
@@ -2921,20 +2921,20 @@
     skos:related <https://data.naa.gov.au/def/agift/Railway-maintenance>,
         <https://data.naa.gov.au/def/agift/Rolling-stock-regulation> .
 
-<https://data.naa.gov.au/def/agift/Reference-services--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Reference-services> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:29:24+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:47:00+00:00"^^xsd:dateTime ;
     skos:altLabel "Access services"@en,
-        "Client services  "@en,
-        "Information services  "@en,
-        "Reader services  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-access--> ;
+        "Client services"@en,
+        "Information services"@en,
+        "Reader services"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-access> ;
     skos:definition "Providing personal or online assistance to help clients locate and use items held in cultural collections. Explaining access provisions and restrictions, and the procedures to view material. Includes research and referral services, mobile or special services for target community groups."@en ;
     skos:prefLabel "Reference services"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Collection-access-->,
-        <https://data.naa.gov.au/def/agift/Finding-aids-development--> .
+    skos:related <https://data.naa.gov.au/def/agift/Collection-access>,
+        <https://data.naa.gov.au/def/agift/Finding-aids-development> .
 
 <https://data.naa.gov.au/def/agift/Renewable-energy-development> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
@@ -2994,7 +2994,7 @@
     dcterms:creator "superadmin"^^xsd:string ;
     dcterms:modified "2016-09-12T06:19:21+00:00"^^xsd:dateTime ;
     skos:altLabel "Agricultural Development Partnership Program"@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2> ;
+    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES> ;
     skos:definition "Initiating cooperative projects to support change in the operation of primary industries and agricultural business ventures. Developing strategies to help rural enterprises and communities adjust to changing commercial conditions, to improve profitability and competitiveness. Providing advice, training and project funding assistance."@en ;
     skos:prefLabel "Rural partnership programs"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Marine-and-rural-support>,
@@ -3055,7 +3055,7 @@
     skos:broader <https://data.naa.gov.au/def/agift/TRADE> ;
     skos:definition "Implementing schemes to assist local businesses to compete in regional or international markets and win overseas or interstate contracts. Includes programs to attract investment to Australia, liaison with other governments and industry partners, providing practical assistance such as identifying foreign investment partners and administering grants."@en ;
     skos:prefLabel "Trade development programs"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Arts-development-->,
+    skos:related <https://data.naa.gov.au/def/agift/Arts-development>,
         <https://data.naa.gov.au/def/agift/Development-assistance-programs> .
 
 <https://data.naa.gov.au/def/agift/Vehicle-registration> a skos:Concept ;
@@ -3230,14 +3230,14 @@
         <https://data.naa.gov.au/def/agift/Fisheries-industry>,
         <https://data.naa.gov.au/def/agift/Oceans-governance> .
 
-<https://data.naa.gov.au/def/agift/Artefact-export-regulation--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Artefact-export-regulation> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:34:09+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:47:37+00:00"^^xsd:dateTime ;
-    skos:altLabel "Art export  "@en,
-        "Cultural material export regulation  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-management--> ;
+    skos:altLabel "Art export"@en,
+        "Cultural material export regulation"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-management> ;
     skos:definition "Negotiating the international movement of cultural material. Liaising with government and private sector bodies for the temporary import or export of artefacts for exhibition purposes. Obtaining valuations to confirm the worth of items. Assisting the return of illegally imported cultural property. Seeking export prevention orders for protected artefacts. "@en ;
     skos:prefLabel "Artefact export regulation"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Cultural-artefact-repatriation>,
@@ -3385,39 +3385,39 @@
     skos:broader <https://data.naa.gov.au/def/agift/GOVERNANCE> ;
     skos:definition "Organising community events and ceremonies to mark significant occasions. Coordinating security, publicity and entertainment. Arranging adequate public facilities, car parking and seating. Includes liaison with local businesses, volunteers and community groups. "@en ;
     skos:prefLabel "Civic celebrations"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Cultural-festivals-->,
-        <https://data.naa.gov.au/def/agift/Multicultural-festivals-->,
+    skos:related <https://data.naa.gov.au/def/agift/Cultural-festivals>,
+        <https://data.naa.gov.au/def/agift/Multicultural-festivals>,
         <https://data.naa.gov.au/def/agift/Presentation-arrangements> .
 
-<https://data.naa.gov.au/def/agift/Collection-accessioning--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Collection-accessioning> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:34:13+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:47:43+00:00"^^xsd:dateTime ;
-    skos:altLabel "Accessioning  "@en,
-        "Collection listing  "@en,
-        "Index development  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-management--> ;
+    skos:altLabel "Accessioning"@en,
+        "Collection listing"@en,
+        "Index development"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-management> ;
     skos:definition "Applying intellectual and physical control over items held by cultural institutions. Recording the essential details of materials as they are acquired. Includes accessioning (and de-accessioning) items for touring exhibitions and those on loan from other collections."@en ;
     skos:prefLabel "Collection accessioning"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Collection-acquisition-->,
-        <https://data.naa.gov.au/def/agift/Descriptive-standards-->,
-        <https://data.naa.gov.au/def/agift/Finding-aids-development--> .
+    skos:related <https://data.naa.gov.au/def/agift/Collection-acquisition>,
+        <https://data.naa.gov.au/def/agift/Descriptive-standards>,
+        <https://data.naa.gov.au/def/agift/Finding-aids-development> .
 
-<https://data.naa.gov.au/def/agift/Collection-acquisition--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Collection-acquisition> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:34:18+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:47:48+00:00"^^xsd:dateTime ;
-    skos:altLabel "Acquisitions  "@en,
-        "Art acquisitions  "@en,
-        "Cultural materials acquisition  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-management--> ;
+    skos:altLabel "Acquisitions"@en,
+        "Art acquisitions"@en,
+        "Cultural materials acquisition"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-management> ;
     skos:definition "Seeking and receiving new materials for cultural institutions. Building a collection in accordance with policy and guidelines. Negotiating temporary use of items from other collections. Developing mechanisms to support a range of acquisition methods, such as purchases, donations, loans and joint investments."@en ;
     skos:prefLabel "Collection acquisition"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Collection-accessioning-->,
-        <https://data.naa.gov.au/def/agift/Cultural-gifts-programs-->,
-        <https://data.naa.gov.au/def/agift/Exhibition-programs--> .
+    skos:related <https://data.naa.gov.au/def/agift/Collection-accessioning>,
+        <https://data.naa.gov.au/def/agift/Cultural-gifts-programs>,
+        <https://data.naa.gov.au/def/agift/Exhibition-programs> .
 
 <https://data.naa.gov.au/def/agift/Crown-land-administration> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -3433,20 +3433,20 @@
         <https://data.naa.gov.au/def/agift/Public-housing>,
         <https://data.naa.gov.au/def/agift/Public-land-management> .
 
-<https://data.naa.gov.au/def/agift/Cultural-festivals--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Cultural-festivals> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:22:40+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:48:37+00:00"^^xsd:dateTime ;
-    skos:altLabel "Arts festivals  "@en,
-        "Book festivals  "@en,
-        "Festivals  "@en,
-        "Heritage festivals  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> ;
+    skos:altLabel "Arts festivals"@en,
+        "Book festivals"@en,
+        "Festivals"@en,
+        "Heritage festivals"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> ;
     skos:definition "Promoting and funding events that highlight artistic, literary or heritage related activities. Organising festivals, performances and joint ventures with community groups where events focus on a particular genre or collection. Includes participation in international cultural festivals."@en ;
     skos:prefLabel "Cultural festivals"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Civic-celebrations>,
-        <https://data.naa.gov.au/def/agift/Multicultural-festivals-->,
+        <https://data.naa.gov.au/def/agift/Multicultural-festivals>,
         <https://data.naa.gov.au/def/agift/Overseas-promotion> .
 
 <https://data.naa.gov.au/def/agift/Cybersafety> a skos:Concept ;
@@ -3629,7 +3629,7 @@
     skos:broader <https://data.naa.gov.au/def/agift/Export-regulation> ;
     skos:definition "Promoting Australian businesses in the global marketplace. Developing long term sustainable exports and diversifying markets through grants schemes. Providing export advice and statistics. Includes conducting promotional programs overseas to enhance the awareness and image of Australian products."@en ;
     skos:prefLabel "Export promotion"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Arts-development-->,
+    skos:related <https://data.naa.gov.au/def/agift/Arts-development>,
         <https://data.naa.gov.au/def/agift/Overseas-promotion>,
         <https://data.naa.gov.au/def/agift/Trade-expositions> .
 
@@ -3682,23 +3682,23 @@
         <https://data.naa.gov.au/def/agift/Insurance-regulation>,
         <https://data.naa.gov.au/def/agift/Retirement-income> .
 
-<https://data.naa.gov.au/def/agift/Finding-aids-development--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Finding-aids-development> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:29:18+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:46:54+00:00"^^xsd:dateTime ;
-    skos:altLabel "Catalogue development  "@en,
-        "Cataloguing  "@en,
-        "Classification schemes  "@en,
-        "Collection description  "@en,
-        "Guide development  "@en,
-        "Indexing  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-access--> ;
+    skos:altLabel "Catalogue development"@en,
+        "Cataloguing"@en,
+        "Classification schemes"@en,
+        "Collection description"@en,
+        "Guide development"@en,
+        "Indexing"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-access> ;
     skos:definition "Creating tools to promote and enable access to items in cultural collections. Researching and developing content for guides, information sheets or websites. Preparing entries for catalogues, indexes and databases. "@en ;
     skos:prefLabel "Finding aids development"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Collection-accessioning-->,
-        <https://data.naa.gov.au/def/agift/Descriptive-standards-->,
-        <https://data.naa.gov.au/def/agift/Reference-services--> .
+    skos:related <https://data.naa.gov.au/def/agift/Collection-accessioning>,
+        <https://data.naa.gov.au/def/agift/Descriptive-standards>,
+        <https://data.naa.gov.au/def/agift/Reference-services> .
 
 <https://data.naa.gov.au/def/agift/Fisheries-industry> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -3985,31 +3985,31 @@
         <https://data.naa.gov.au/def/agift/Family-reunion-programs>,
         <https://data.naa.gov.au/def/agift/Refugee-services> .
 
-<https://data.naa.gov.au/def/agift/Multicultural-festivals--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Multicultural-festivals> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:46:59+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:48:56+00:00"^^xsd:dateTime ;
-    skos:altLabel "Ethnic festivals  "@en,
-        "Food fairs  "@en,
-        "International cultural displays  "@en,
-        "International food fairs  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion--> ;
+    skos:altLabel "Ethnic festivals"@en,
+        "Food fairs"@en,
+        "International cultural displays"@en,
+        "International food fairs"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion> ;
     skos:definition "Promoting and funding events that reflect Australia's cultural diversity and multi-ethnic population. Organising festivals, performances and joint ventures with community groups where events highlight the origin of particular cultural activities. Includes participation in international cultural festivals. "@en ;
     skos:prefLabel "Multicultural festivals"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Civic-celebrations>,
-        <https://data.naa.gov.au/def/agift/Cultural-festivals-->,
+        <https://data.naa.gov.au/def/agift/Cultural-festivals>,
         <https://data.naa.gov.au/def/agift/Overseas-promotion> .
 
-<https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:23:27+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:48:48+00:00"^^xsd:dateTime ;
-    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> ;
+    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> ;
     skos:definition "Managing programs to protect and promote Australia's cultural diversity. Sponsoring community events and activities. Recognising internationally significant dates and events. Encouraging research into multicultural experiences. Initiating projects to compile and document ethnic oral histories and folklore."@en ;
-    skos:narrower <https://data.naa.gov.au/def/agift/Multicultural-festivals-->,
-        <https://data.naa.gov.au/def/agift/Multicultural-services--> ;
+    skos:narrower <https://data.naa.gov.au/def/agift/Multicultural-festivals>,
+        <https://data.naa.gov.au/def/agift/Multicultural-services> ;
     skos:prefLabel "Multicultural heritage promotion"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Indigenous-cultural-heritage> .
 
@@ -4223,16 +4223,16 @@
         <https://data.naa.gov.au/def/agift/Law-enforcement>,
         <https://data.naa.gov.au/def/agift/Legal-aid-services> .
 
-<https://data.naa.gov.au/def/agift/Publicity-programs--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Publicity-programs> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:41:31+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:48:25+00:00"^^xsd:dateTime ;
-    skos:altLabel "Marketing campaigns  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/Collection-promotion--> ;
+    skos:altLabel "Marketing campaigns"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/Collection-promotion> ;
     skos:definition "Planning and implementing campaigns to promote cultural institutions and their collections. Developing media releases, advertising material and catalogues for exhibitions. Organising tours, visits and speaking engagements. "@en ;
     skos:prefLabel "Publicity programs"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Exhibition-programs-->,
+    skos:related <https://data.naa.gov.au/def/agift/Exhibition-programs>,
         <https://data.naa.gov.au/def/agift/Government-media>,
         <https://data.naa.gov.au/def/agift/Publishing> .
 
@@ -4547,7 +4547,7 @@
     skos:broader <https://data.naa.gov.au/def/agift/EDUCATION-AND-TRAINING> ;
     skos:definition "Administering programs that offer training and facilities to support the production of skilled performance or craft. Managing specialised institutions or schemes to foster artistic talent at individual or community level. Includes the provision of scholarships and study grants. "@en ;
     skos:prefLabel "Arts education"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Arts-development-->,
+    skos:related <https://data.naa.gov.au/def/agift/Arts-development>,
         <https://data.naa.gov.au/def/agift/Overseas-student-scholarship-programs>,
         <https://data.naa.gov.au/def/agift/School-education>,
         <https://data.naa.gov.au/def/agift/Tertiary-education> .
@@ -4620,31 +4620,31 @@
         <https://data.naa.gov.au/def/agift/Primary-health-care>,
         <https://data.naa.gov.au/def/agift/Special-needs-services> .
 
-<https://data.naa.gov.au/def/agift/Collection-access--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Collection-access> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:22:05+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:47:11+00:00"^^xsd:dateTime ;
-    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> ;
+    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> ;
     skos:definition "Developing policy to assist the location and use of items held by cultural institutions. Establishing access procedures to meet legislative requirements. Providing advice about opening hours and membership or registration requirements. Includes development of online information to support remote access."@en ;
-    skos:narrower <https://data.naa.gov.au/def/agift/Descriptive-standards-->,
-        <https://data.naa.gov.au/def/agift/Finding-aids-development-->,
-        <https://data.naa.gov.au/def/agift/Reference-services--> ;
+    skos:narrower <https://data.naa.gov.au/def/agift/Descriptive-standards>,
+        <https://data.naa.gov.au/def/agift/Finding-aids-development>,
+        <https://data.naa.gov.au/def/agift/Reference-services> ;
     skos:prefLabel "Collection access"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Reference-services--> .
+    skos:related <https://data.naa.gov.au/def/agift/Reference-services> .
 
-<https://data.naa.gov.au/def/agift/Collection-promotion--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Collection-promotion> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:22:31+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:48:19+00:00"^^xsd:dateTime ;
-    skos:altLabel "Cultural collection marketing  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> ;
+    skos:altLabel "Cultural collection marketing"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> ;
     skos:definition "Developing strategies to raise the profiles of cultural institutions and their holdings. Coordinating programs of events and publications. Establishing policy and guidelines to support exhibitions and marketing campaigns. "@en ;
-    skos:narrower <https://data.naa.gov.au/def/agift/Exhibition-programs-->,
-        <https://data.naa.gov.au/def/agift/Publicity-programs--> ;
+    skos:narrower <https://data.naa.gov.au/def/agift/Exhibition-programs>,
+        <https://data.naa.gov.au/def/agift/Publicity-programs> ;
     skos:prefLabel "Collection promotion"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Arts-promotion-->,
+    skos:related <https://data.naa.gov.au/def/agift/Arts-promotion>,
         <https://data.naa.gov.au/def/agift/Publishing> .
 
 <https://data.naa.gov.au/def/agift/Consular-services> a skos:Concept ;
@@ -4959,7 +4959,7 @@
     skos:broader <https://data.naa.gov.au/def/agift/Public-administration> ;
     skos:definition "Reviewing the financial or performance management of a government organisation or entity and reporting findings to the legislative body."@en ;
     skos:prefLabel "Government auditing"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Business-process-auditing_2>,
+    skos:related <https://data.naa.gov.au/def/agift/Business-process-auditing>,
         <https://data.naa.gov.au/def/agift/Corruption-prevention>,
         <https://data.naa.gov.au/def/agift/Integrity-compliance>,
         <https://data.naa.gov.au/def/agift/Whistleblowing> .
@@ -5358,7 +5358,7 @@
     skos:broader <https://data.naa.gov.au/def/agift/Import-regulation> ;
     skos:definition "Regulating the international purchase and movement into Australia of restricted goods such as medicines and illicit drugs, animals and animal-derived products, plants and plant-derived products, weaponry, military equipment, nuclear material, chemicals and toxins, heritage artefacts, motor vehicles, currency. Includes policy development, procedures for inspection and seizure, and liaison with other jurisdictions."@en ;
     skos:prefLabel "Prohibited import control"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Artefact-export-regulation-->,
+    skos:related <https://data.naa.gov.au/def/agift/Artefact-export-regulation>,
         <https://data.naa.gov.au/def/agift/Border-protection>,
         <https://data.naa.gov.au/def/agift/Quarantine>,
         <https://data.naa.gov.au/def/agift/Tariff-regulation> .
@@ -5383,7 +5383,7 @@
     dcterms:modified "2016-09-13T07:07:55+00:00"^^xsd:dateTime ;
     skos:altLabel "Animal quarantine"@en,
         "Isolation facilities"@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2> ;
+    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES> ;
     skos:definition "Developing strategies to protect the health of Australia's plant and animal populations from risks associated with exotic pests and disease. Conducting inspections at borders, ports, airports and other entry or exit points. Managing isolation and disinfection facilities. Applying penalties for breaches of regulations. "@en ;
     skos:prefLabel "Quarantine"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Interstate-trade-agreements>,
@@ -5954,23 +5954,23 @@
         <https://data.naa.gov.au/def/agift/Probate-applications> ;
     skos:prefLabel "Civil law"@en .
 
-<https://data.naa.gov.au/def/agift/Collection-management--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Collection-management> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:22:10+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:47:06+00:00"^^xsd:dateTime ;
-    skos:altLabel "Archival holdings management  "@en,
-        "Collection development policy  "@en,
-        "Holdings management  "@en,
-        "Library collection management  "@en,
-        "Museum collection management  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> ;
+    skos:altLabel "Archival holdings management"@en,
+        "Collection development policy"@en,
+        "Holdings management"@en,
+        "Library collection management"@en,
+        "Museum collection management"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> ;
     skos:definition "Developing policy for the acquisition, storage and preservation of cultural material and artefacts. Producing standards and guidelines for collection management procedures to ensure the safety of fragile or highly valuable items. Includes liaison with other institutions about the management of cultural materials."@en ;
-    skos:narrower <https://data.naa.gov.au/def/agift/Artefact-export-regulation-->,
-        <https://data.naa.gov.au/def/agift/Collection-accessioning-->,
-        <https://data.naa.gov.au/def/agift/Collection-acquisition-->,
-        <https://data.naa.gov.au/def/agift/Collection-storage-->,
-        <https://data.naa.gov.au/def/agift/Preservation-services--> ;
+    skos:narrower <https://data.naa.gov.au/def/agift/Artefact-export-regulation>,
+        <https://data.naa.gov.au/def/agift/Collection-accessioning>,
+        <https://data.naa.gov.au/def/agift/Collection-acquisition>,
+        <https://data.naa.gov.au/def/agift/Collection-storage>,
+        <https://data.naa.gov.au/def/agift/Preservation-services> ;
     skos:prefLabel "Collection management"@en .
 
 <https://data.naa.gov.au/def/agift/Community-recreational-programs> a skos:Concept ;
@@ -6220,7 +6220,7 @@
     skos:related <https://data.naa.gov.au/def/agift/Indigenous-enterprise-development>,
         <https://data.naa.gov.au/def/agift/Indigenous-heritage-conservation>,
         <https://data.naa.gov.au/def/agift/Indigenous-reconciliation>,
-        <https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion--> .
+        <https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion> .
 
 <https://data.naa.gov.au/def/agift/Integrity-compliance> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -6585,7 +6585,7 @@
         "Trade fair promotion"@en ;
     skos:broader <https://data.naa.gov.au/def/agift/TOURISM> ;
     skos:definition "Developing special activities to draw visitors to a region. Marketing and promoting events and attractions as catalysts for tourism growth. Managing publicity to increase awareness of tourism initiatives, exhibitions and trade fairs. Includes the promotion of overseas tourist events."@en ;
-    skos:narrower <https://data.naa.gov.au/def/agift/Advertising-campaigns_2> ;
+    skos:narrower <https://data.naa.gov.au/def/agift/Advertising-campaigns> ;
     skos:prefLabel "Tourist event promotion"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Games-promotion>,
         <https://data.naa.gov.au/def/agift/Overseas-promotion>,
@@ -6662,28 +6662,28 @@
         <https://data.naa.gov.au/def/agift/Social-justice-and-equity>,
         <https://data.naa.gov.au/def/agift/Workplace-discrimination-monitoring> .
 
-<https://data.naa.gov.au/def/agift/Arts-development--> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/Arts-development> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-09-08T01:21:58+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-11-28T22:47:18+00:00"^^xsd:dateTime ;
-    skos:altLabel "Arts councils  "@en,
+    skos:altLabel "Arts councils"@en,
         "Ballet "@en,
-        "Creative arts development  "@en,
-        "Dance  "@en,
-        "Film industry development  "@en,
-        "Fine arts development  "@en,
-        "Indigenous arts development  "@en,
-        "Literary arts development  "@en,
-        "Musical arts development  "@en,
-        "Opera  "@en,
-        "Performing arts development  "@en,
-        "Visual arts development  "@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> ;
+        "Creative arts development"@en,
+        "Dance"@en,
+        "Film industry development"@en,
+        "Fine arts development"@en,
+        "Indigenous arts development"@en,
+        "Literary arts development"@en,
+        "Musical arts development"@en,
+        "Opera"@en,
+        "Performing arts development"@en,
+        "Visual arts development"@en ;
+    skos:broader <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> ;
     skos:definition "Providing support for the production of skilled performance or craft. Administering programs to develop funding and promotional strategies for the arts, and to encourage participation from across the community. Assisting the growth of artistic companies such as orchestras and dance companies through business advice and planning. Includes support for work spaces and liaison with education and exhibition facilities. "@en ;
-    skos:narrower <https://data.naa.gov.au/def/agift/Arts-funding-->,
-        <https://data.naa.gov.au/def/agift/Arts-incentive-schemes-->,
-        <https://data.naa.gov.au/def/agift/Arts-promotion--> ;
+    skos:narrower <https://data.naa.gov.au/def/agift/Arts-funding>,
+        <https://data.naa.gov.au/def/agift/Arts-incentive-schemes>,
+        <https://data.naa.gov.au/def/agift/Arts-promotion> ;
     skos:prefLabel "Arts development"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Arts-education>,
         <https://data.naa.gov.au/def/agift/Export-promotion>,
@@ -6984,10 +6984,10 @@
     skos:broader <https://data.naa.gov.au/def/agift/INTERNATIONAL-RELATIONS> ;
     skos:definition "Undertaking liaison activities to raise Australia's international profile. Developing cultural exchange programs and advocating the benefits of international business. Establishing corporate networks and reciprocal visitor programs. Includes identifying and negotiating opportunities to promote Australia overseas, such as participating in international expositions, hosting major sporting events or cultural festivals. "@en ;
     skos:prefLabel "Overseas promotion"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Cultural-festivals-->,
+    skos:related <https://data.naa.gov.au/def/agift/Cultural-festivals>,
         <https://data.naa.gov.au/def/agift/Export-promotion>,
         <https://data.naa.gov.au/def/agift/Games-promotion>,
-        <https://data.naa.gov.au/def/agift/Multicultural-festivals-->,
+        <https://data.naa.gov.au/def/agift/Multicultural-festivals>,
         <https://data.naa.gov.au/def/agift/Tourist-event-promotion>,
         <https://data.naa.gov.au/def/agift/Trade-expositions> .
 
@@ -7034,7 +7034,7 @@
     skos:broader <https://data.naa.gov.au/def/agift/Administrative-law> ;
     skos:definition "Regulating the creation, capture, management and disposal of government records. Monitoring compliance to ensure appropriate availability of authentic evidence of government or business activities."@en ;
     skos:prefLabel "Recordkeeping standards"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Business-process-auditing_2>,
+    skos:related <https://data.naa.gov.au/def/agift/Business-process-auditing>,
         <https://data.naa.gov.au/def/agift/Freedom-of-information>,
         <https://data.naa.gov.au/def/agift/Information-management-standards>,
         <https://data.naa.gov.au/def/agift/Information-security>,
@@ -7207,7 +7207,7 @@
         "Maximum residue limits"@en,
         "Pesticide regulation"@en,
         "Veterinary chemical regulation"@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2> ;
+    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES> ;
     skos:definition "Monitoring the use of substances to control weeds, insects and other pests that affect primary production. Maintaining a register of approved agricultural or veterinary chemicals and pesticides. Assessing product applications, specifying conditions of use and maximum residue limits. Conducting routine inspections to ensure compliance."@en ;
     skos:prefLabel "Chemical and pesticide regulation"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Agricultural-sciences>,
@@ -7318,7 +7318,7 @@
         <https://data.naa.gov.au/def/agift/Refugee-services>,
         <https://data.naa.gov.au/def/agift/Travel-authorisation> ;
     skos:prefLabel "IMMIGRATION"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> ;
+    skos:related <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> ;
     skos:topConceptOf <https://data.naa.gov.au/def/agift/AGIFT> .
 
 <https://data.naa.gov.au/def/agift/INDIGENOUS-AFFAIRS> a skos:Concept ;
@@ -7849,7 +7849,7 @@
     dcterms:modified "2016-09-12T06:08:45+00:00"^^xsd:dateTime ;
     skos:altLabel "Marine industries regulation"@en,
         "Rural industries regulation"@en ;
-    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2> ;
+    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES> ;
     skos:definition "Monitoring the management of sea-based and farming industries. Encouraging efficient and sustainable cultivation practices. Developing quality assurance programs, operating standards and other regulatory mechanisms. "@en ;
     skos:narrower <https://data.naa.gov.au/def/agift/Agricultural-industry>,
         <https://data.naa.gov.au/def/agift/Fisheries-industry>,
@@ -7876,7 +7876,7 @@
     skos:prefLabel "Migrant services"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Adult-migrant-education>,
         <https://data.naa.gov.au/def/agift/Family-reunion-programs>,
-        <https://data.naa.gov.au/def/agift/Multicultural-services-->,
+        <https://data.naa.gov.au/def/agift/Multicultural-services>,
         <https://data.naa.gov.au/def/agift/Permanent-entry-arrangements>,
         <https://data.naa.gov.au/def/agift/Refugee-services> .
 
@@ -8119,12 +8119,12 @@
         <https://data.naa.gov.au/def/agift/Publishing-standards>,
         <https://data.naa.gov.au/def/agift/Website-development> ;
     skos:prefLabel "Publishing"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Advertising-campaigns_2>,
-        <https://data.naa.gov.au/def/agift/Collection-promotion-->,
+    skos:related <https://data.naa.gov.au/def/agift/Advertising-campaigns>,
+        <https://data.naa.gov.au/def/agift/Collection-promotion>,
         <https://data.naa.gov.au/def/agift/Copyright-regulation>,
         <https://data.naa.gov.au/def/agift/Government-media>,
         <https://data.naa.gov.au/def/agift/Information-dissemination>,
-        <https://data.naa.gov.au/def/agift/Publicity-programs--> .
+        <https://data.naa.gov.au/def/agift/Publicity-programs> .
 
 <https://data.naa.gov.au/def/agift/School-education> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
@@ -8203,33 +8203,33 @@
         <https://data.naa.gov.au/def/agift/Harbour-management>,
         <https://data.naa.gov.au/def/agift/Marina-management>,
         <https://data.naa.gov.au/def/agift/Oceans-governance>,
-        <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2>,
+        <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES>,
         <https://data.naa.gov.au/def/agift/Pollutant-prevention-programs>,
         <https://data.naa.gov.au/def/agift/Port-regulation>,
         <https://data.naa.gov.au/def/agift/Soil-preservation-programs> .
 
-<https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS> a skos:Concept ;
     dcterms:contributor "KOdea"^^xsd:string ;
     dcterms:created "2016-09-08T01:21:39+00:00"^^xsd:dateTime ;
     dcterms:creator "fionamcl"^^xsd:string ;
     dcterms:modified "2016-09-09T07:47:02+00:00"^^xsd:dateTime ;
-    skos:altLabel "Archives  "@en,
-        "Art galleries  "@en,
-        "Cultural institutions  "@en,
-        "Culture  "@en,
-        "Galleries  "@en,
-        "Libraries  "@en,
+    skos:altLabel "Archives"@en,
+        "Art galleries"@en,
+        "Cultural institutions"@en,
+        "Culture"@en,
+        "Galleries"@en,
+        "Libraries"@en,
         "Museums"@en,
-        "Theatres  "@en ;
+        "Theatres"@en ;
     skos:definition "Developing policy to support the arts and cultural organisations such as museums, libraries and galleries. Establishing programs to develop and manage cultural collections and artefacts, and to stimulate growth in cultural industries. Sponsoring activities and events to celebrate the diversity of Australian culture. "@en ;
-    skos:narrower <https://data.naa.gov.au/def/agift/Arts-development-->,
-        <https://data.naa.gov.au/def/agift/Collection-access-->,
-        <https://data.naa.gov.au/def/agift/Collection-management-->,
-        <https://data.naa.gov.au/def/agift/Collection-promotion-->,
-        <https://data.naa.gov.au/def/agift/Cultural-awards-and-scholarships-->,
-        <https://data.naa.gov.au/def/agift/Cultural-festivals-->,
-        <https://data.naa.gov.au/def/agift/Cultural-gifts-programs-->,
-        <https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion--> ;
+    skos:narrower <https://data.naa.gov.au/def/agift/Arts-development>,
+        <https://data.naa.gov.au/def/agift/Collection-access>,
+        <https://data.naa.gov.au/def/agift/Collection-management>,
+        <https://data.naa.gov.au/def/agift/Collection-promotion>,
+        <https://data.naa.gov.au/def/agift/Cultural-awards-and-scholarships>,
+        <https://data.naa.gov.au/def/agift/Cultural-festivals>,
+        <https://data.naa.gov.au/def/agift/Cultural-gifts-programs>,
+        <https://data.naa.gov.au/def/agift/Multicultural-heritage-promotion> ;
     skos:prefLabel "CULTURAL AFFAIRS"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Cultural-centre-management>,
         <https://data.naa.gov.au/def/agift/IMMIGRATION> ;
@@ -8361,13 +8361,13 @@
     skos:broader <https://data.naa.gov.au/def/agift/COMMUNICATIONS> ;
     skos:definition "Managing government advertising and communications activities. Developing advertisements and advertising campaign material. Includes production of media releases, public notices, commercial and employment opportunities."@en ;
     skos:prefLabel "Government media"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/Advertising-campaigns_2>,
+    skos:related <https://data.naa.gov.au/def/agift/Advertising-campaigns>,
         <https://data.naa.gov.au/def/agift/Community-engagement>,
         <https://data.naa.gov.au/def/agift/Election-campaigning>,
         <https://data.naa.gov.au/def/agift/Electronic-publishing>,
         <https://data.naa.gov.au/def/agift/Government-procurement-regulation>,
         <https://data.naa.gov.au/def/agift/Information-dissemination>,
-        <https://data.naa.gov.au/def/agift/Publicity-programs-->,
+        <https://data.naa.gov.au/def/agift/Publicity-programs>,
         <https://data.naa.gov.au/def/agift/Publishing>,
         <https://data.naa.gov.au/def/agift/Recruitment-programs>,
         <https://data.naa.gov.au/def/agift/Social-media> .
@@ -8404,7 +8404,7 @@
     dcterms:created "2016-07-06T03:42:00+00:00"^^xsd:dateTime ;
     dcterms:creator "superadmin"^^xsd:string ;
     dcterms:modified "2016-09-12T06:19:21+00:00"^^xsd:dateTime ;
-    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2> ;
+    skos:broader <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES> ;
     skos:definition "Developing policy to assist the growth and management of sea-based or farming industries. Identifying markets and facilitating trade or investment opportunities. Providing grants, financial incentives or subsidies for initiatives."@en ;
     skos:narrower <https://data.naa.gov.au/def/agift/Aquaculture-industry>,
         <https://data.naa.gov.au/def/agift/Horticultural-industry>,
@@ -8455,11 +8455,11 @@
         <https://data.naa.gov.au/def/agift/Water-resources> ;
     skos:prefLabel "NATURAL RESOURCES"@en ;
     skos:related <https://data.naa.gov.au/def/agift/ENVIRONMENT>,
-        <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2>,
+        <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES>,
         <https://data.naa.gov.au/def/agift/SCIENCE> ;
     skos:topConceptOf <https://data.naa.gov.au/def/agift/AGIFT> .
 
-<https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2> a skos:Concept ;
+<https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES> a skos:Concept ;
     dcterms:contributor "fionamcl"^^xsd:string ;
     dcterms:created "2016-07-06T02:47:26+00:00"^^xsd:dateTime ;
     dcterms:creator "superadmin"^^xsd:string ;
@@ -8951,7 +8951,7 @@
     skos:prefLabel "SCIENCE"@en ;
     skos:related <https://data.naa.gov.au/def/agift/Energy-resources>,
         <https://data.naa.gov.au/def/agift/NATURAL-RESOURCES>,
-        <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2>,
+        <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES>,
         <https://data.naa.gov.au/def/agift/Renewable-energy-development> ;
     skos:topConceptOf <https://data.naa.gov.au/def/agift/AGIFT> .
 
@@ -8990,7 +8990,7 @@
     skos:altLabel "Industry"@en ;
     skos:definition "Formulating policy to regulate and support the private sector, including small business and non-profit organisations. Developing strategies to assist business growth and management. Implementing advocacy programs, providing funding and administering regulatory bodies. "@en ;
     skos:narrower <https://data.naa.gov.au/def/agift/Business-association>,
-        <https://data.naa.gov.au/def/agift/Business-process-auditing_2>,
+        <https://data.naa.gov.au/def/agift/Business-process-auditing>,
         <https://data.naa.gov.au/def/agift/Business-registration-and-licensing>,
         <https://data.naa.gov.au/def/agift/Business-sponsorship>,
         <https://data.naa.gov.au/def/agift/Consumer-protection>,
@@ -9004,7 +9004,7 @@
         <https://data.naa.gov.au/def/agift/Small-business-services>,
         <https://data.naa.gov.au/def/agift/Stock-market-regulation> ;
     skos:prefLabel "BUSINESS SUPPORT AND REGULATION"@en ;
-    skos:related <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2>,
+    skos:related <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES>,
         <https://data.naa.gov.au/def/agift/TRADE> ;
     skos:topConceptOf <https://data.naa.gov.au/def/agift/AGIFT> .
 
@@ -9046,7 +9046,7 @@
         <https://data.naa.gov.au/def/agift/CIVIC-INFRASTRUCTURE>,
         <https://data.naa.gov.au/def/agift/COMMUNICATIONS>,
         <https://data.naa.gov.au/def/agift/COMMUNITY-SERVICES>,
-        <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS_2>,
+        <https://data.naa.gov.au/def/agift/CULTURAL-AFFAIRS>,
         <https://data.naa.gov.au/def/agift/DEFENCE>,
         <https://data.naa.gov.au/def/agift/EDUCATION-AND-TRAINING>,
         <https://data.naa.gov.au/def/agift/EMPLOYMENT>,
@@ -9060,7 +9060,7 @@
         <https://data.naa.gov.au/def/agift/JUSTICE-ADMINISTRATION>,
         <https://data.naa.gov.au/def/agift/MARITIME-SERVICES>,
         <https://data.naa.gov.au/def/agift/NATURAL-RESOURCES>,
-        <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES_2>,
+        <https://data.naa.gov.au/def/agift/PRIMARY-INDUSTRIES>,
         <https://data.naa.gov.au/def/agift/SCIENCE>,
         <https://data.naa.gov.au/def/agift/SECURITY>,
         <https://data.naa.gov.au/def/agift/SPORT-AND-RECREATION>,
