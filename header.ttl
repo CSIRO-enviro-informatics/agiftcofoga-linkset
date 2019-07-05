@@ -10,11 +10,11 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 @prefix : <http://linked.data.gov.au/dataset/agiftcofoga/> .
-@prefix method: <http://linked.data.gov.au/linkset/agiftcofoga/method> .
-@prefix nick: <http://linked.data.gov.au/linkset/agiftcofoga/nick> .
+@prefix method: <http://linked.data.gov.au/dataset/agiftcofoga/method> .
+@prefix nick: <http://linked.data.gov.au/dataset/agiftcofoga/nick> .
 
-@prefix agift: <http://data.naa.gov.au/def/agift/> .
-@prefix cofoga: <http://linked.data.gov.au/def/cofoga/> .
+@prefix agift: <https://data.naa.gov.au/def/agift/> .
+@prefix cofoga: <http://linked.data.gov.au/def/cofog-a/> .
 
 
 <http://linked.data.gov.au/dataset/agiftcofoga>
@@ -33,9 +33,9 @@ The COFOG-A is an Australian version of the UN's Statistical office's COFOG, "Cl
     dct:created "2019-07-01"^^xsd:date ;
     # dct:issued ""^^xsd:date ; # not given yet
     # dct:modified ""^^xsd:date ; # not given yet
-    void:subjectsTarget <https://data.naa.gov.au/def/cofog-a> ;
+    void:subjectsTarget <https://data.naa.gov.au/def/agift> ;
     void:linkPredicate skos:broadMatch , skos:closeMatch , skos:exactMatch , skos:narrowMatch , skos:relatedMatch ;
-    void:objectsTarget <http://linked.data.gov.au/def/cofog> ;
+    void:objectsTarget <http://linked.data.gov.au/def/cofog-a> ;
     loci:hadGenerationMethod :method .
 
 
