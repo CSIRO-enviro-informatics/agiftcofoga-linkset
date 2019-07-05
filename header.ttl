@@ -1,8 +1,6 @@
-@prefix : <http://linked.data.gov.au/dataset/agiftcofoga/> .
-@prefix agift: <http://data.naa.gov.au/def/agift/> .
-@prefix cofoga: <http://linked.data.gov.au/def/cofoga/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix loci: <http://linked.data.gov.au/def/loci#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -10,6 +8,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix : <http://linked.data.gov.au/dataset/agiftcofoga/> .
+@prefix method: <http://linked.data.gov.au/linkset/agiftcofoga/method> .
+@prefix nick: <http://linked.data.gov.au/linkset/agiftcofoga/nick> .
+
+@prefix agift: <http://data.naa.gov.au/def/agift/> .
+@prefix cofoga: <http://linked.data.gov.au/def/cofoga/> .
 
 
 <http://linked.data.gov.au/dataset/agiftcofoga>
@@ -24,7 +29,7 @@ The COFOG-A is an Australian version of the UN's Statistical office's COFOG, "Cl
         sdo:identifier <http://catalogue.linked.data.gov.au/org/csiro> ;
         sdo:name "CSIRO" ;
     ] ;
-    dct:creator :nick ;
+    dct:creator nick: ;
     dct:created "2019-07-01"^^xsd:date ;
     # dct:issued ""^^xsd:date ; # not given yet
     # dct:modified ""^^xsd:date ; # not given yet
@@ -34,7 +39,7 @@ The COFOG-A is an Australian version of the UN's Statistical office's COFOG, "Cl
     loci:hadGenerationMethod :method .
 
 
-:method a prov:Plan ;
+method: a prov:Plan ;
     rdfs:label "Python and Excel processing" ;
     rdfs:seeAlso <https://github.com/CSIRO-enviro-informatics/agiftcofoga-linkset/method> ;
     rdfs:comment "The method used to create this linkset, described in the code repository housing the Linkset data" ;
@@ -42,7 +47,8 @@ The COFOG-A is an Australian version of the UN's Statistical office's COFOG, "Cl
     prov:generatedAtTime "2019-07-01"^^xsd:date .
 
 
-:nick
+nick:
+    a owl:NamedIndividual , sdo:Person ;
     sdo:email "nicholas.car@csiro.au" ;
     sdo:identifier <http://orcid.org/0000-0002-8742-7730> ;
     sdo:memberOf [

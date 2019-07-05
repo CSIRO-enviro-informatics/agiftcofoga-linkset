@@ -5,7 +5,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0299 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s002
@@ -14,7 +14,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0799 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s003
@@ -23,7 +23,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0112 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s004
@@ -32,7 +32,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:11 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s005
@@ -41,7 +41,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0521 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s006
@@ -50,7 +50,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s007
@@ -59,7 +59,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:111 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s008
@@ -68,7 +68,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:1091 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s009
@@ -77,7 +77,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0112 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s010
@@ -86,7 +86,7 @@
     rdf:predicate skos:narrowerMatch ;
     rdf:object cofoga:0211 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s011
@@ -95,7 +95,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0441 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s012
@@ -104,7 +104,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0132 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s013
@@ -113,7 +113,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:075 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s014
@@ -122,7 +122,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:01 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s015
@@ -131,7 +131,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0551 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s016
@@ -140,7 +140,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:11 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s017
@@ -149,7 +149,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:016 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s018
@@ -158,7 +158,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:082 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s019
@@ -167,7 +167,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0932 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s020
@@ -176,7 +176,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:076 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s021
@@ -185,7 +185,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0211 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s022
@@ -194,7 +194,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0621 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s023
@@ -203,7 +203,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0299 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s024
@@ -212,7 +212,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0631 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s025
@@ -221,7 +221,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:033 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s026
@@ -230,7 +230,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0829 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s027
@@ -239,7 +239,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:082 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s028
@@ -248,7 +248,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:063 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s029
@@ -257,7 +257,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:079 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s030
@@ -266,7 +266,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0621 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s031
@@ -275,7 +275,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0829 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s032
@@ -284,7 +284,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:082 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s033
@@ -293,7 +293,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0631 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s034
@@ -302,7 +302,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0771 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s035
@@ -311,7 +311,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0231 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s036
@@ -320,7 +320,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:011 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s037
@@ -329,7 +329,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0471 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s038
@@ -338,7 +338,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:062 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s039
@@ -347,7 +347,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0391 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s040
@@ -356,7 +356,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0829 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s041
@@ -365,7 +365,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:082 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s042
@@ -374,7 +374,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:077 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s043
@@ -383,7 +383,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:043 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s044
@@ -392,7 +392,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0132 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s045
@@ -401,7 +401,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:079 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s046
@@ -410,7 +410,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:03 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s047
@@ -419,7 +419,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0476 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s048
@@ -428,7 +428,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s049
@@ -437,7 +437,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:073 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s050
@@ -446,7 +446,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0433 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s051
@@ -455,7 +455,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:055 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s052
@@ -464,7 +464,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:031 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s053
@@ -473,7 +473,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0112 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s054
@@ -482,7 +482,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:029 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s055
@@ -491,7 +491,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s056
@@ -500,7 +500,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:0761 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s057
@@ -509,7 +509,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0723 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s058
@@ -518,7 +518,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0411 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s059
@@ -527,7 +527,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:032 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s060
@@ -536,7 +536,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s061
@@ -545,7 +545,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:062 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s062
@@ -554,7 +554,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:1143 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s063
@@ -563,7 +563,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0299 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s064
@@ -572,7 +572,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0629 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s065
@@ -581,7 +581,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0331 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s066
@@ -590,7 +590,7 @@
     rdf:predicate skos:narrowerMatch ;
     rdf:object cofoga:1091 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s067
@@ -599,7 +599,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s068
@@ -608,7 +608,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0521 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s069
@@ -617,7 +617,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:1151 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s070
@@ -626,7 +626,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:062 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s071
@@ -635,7 +635,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:014 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s072
@@ -644,7 +644,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:076 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s073
@@ -653,7 +653,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:09 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s074
@@ -662,7 +662,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0741 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s075
@@ -671,7 +671,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s076
@@ -680,7 +680,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:013 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s077
@@ -689,7 +689,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:04 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s078
@@ -698,7 +698,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:063 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s079
@@ -707,7 +707,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:031 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s080
@@ -716,7 +716,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:118 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s081
@@ -725,7 +725,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:083 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s082
@@ -734,7 +734,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0731 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s083
@@ -743,7 +743,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:01 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s084
@@ -752,7 +752,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s085
@@ -761,7 +761,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0141 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s086
@@ -770,7 +770,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0599 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s087
@@ -779,7 +779,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0322 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s088
@@ -788,7 +788,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:06 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s089
@@ -797,7 +797,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:012 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s090
@@ -806,7 +806,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:077 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s091
@@ -815,7 +815,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0141 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s092
@@ -824,7 +824,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0621 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s093
@@ -833,7 +833,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:1111 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s094
@@ -842,7 +842,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:118 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s095
@@ -851,7 +851,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:021 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s096
@@ -860,7 +860,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:1091 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s097
@@ -869,7 +869,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:1181 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s098
@@ -878,7 +878,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s099
@@ -887,7 +887,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0829 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s100
@@ -896,7 +896,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:1131 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s101
@@ -905,7 +905,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:1181 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s102
@@ -914,7 +914,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:077 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s103
@@ -923,7 +923,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s104
@@ -932,7 +932,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:075 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s105
@@ -941,7 +941,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0231 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s106
@@ -950,7 +950,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:047 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s107
@@ -959,7 +959,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s108
@@ -968,7 +968,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0761 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s109
@@ -977,7 +977,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0811 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s110
@@ -986,7 +986,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:029 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s111
@@ -995,7 +995,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0799 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s112
@@ -1004,7 +1004,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0112 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s113
@@ -1013,7 +1013,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s114
@@ -1022,7 +1022,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:055 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s115
@@ -1031,7 +1031,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:09 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s116
@@ -1040,7 +1040,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0599 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s117
@@ -1049,7 +1049,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0519 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s118
@@ -1058,7 +1058,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:1091 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s119
@@ -1067,7 +1067,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:052 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s120
@@ -1076,7 +1076,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0759 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s121
@@ -1085,7 +1085,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:029 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s122
@@ -1094,7 +1094,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0829 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s123
@@ -1103,7 +1103,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0161 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s124
@@ -1112,7 +1112,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:082 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s125
@@ -1121,7 +1121,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0621 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s126
@@ -1130,7 +1130,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:047 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s127
@@ -1139,7 +1139,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s128
@@ -1148,7 +1148,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0391 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s129
@@ -1157,7 +1157,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0932 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s130
@@ -1166,7 +1166,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0699 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s131
@@ -1175,7 +1175,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:062 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s132
@@ -1184,7 +1184,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0311 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s133
@@ -1193,7 +1193,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0621 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s134
@@ -1202,7 +1202,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0211 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s135
@@ -1211,7 +1211,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s136
@@ -1220,7 +1220,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:061 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s137
@@ -1229,7 +1229,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s138
@@ -1238,7 +1238,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:05 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s139
@@ -1247,7 +1247,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s140
@@ -1256,7 +1256,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:081 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s141
@@ -1265,7 +1265,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0441 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s142
@@ -1274,7 +1274,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s143
@@ -1283,7 +1283,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0211 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s144
@@ -1292,7 +1292,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:059 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s145
@@ -1301,7 +1301,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:119 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s146
@@ -1310,7 +1310,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:023 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s147
@@ -1319,7 +1319,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0829 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s148
@@ -1328,7 +1328,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:043 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s149
@@ -1337,7 +1337,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s150
@@ -1346,7 +1346,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:076 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s151
@@ -1355,7 +1355,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0529 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s152
@@ -1364,7 +1364,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:1199 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s153
@@ -1373,7 +1373,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s154
@@ -1382,7 +1382,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0761 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s155
@@ -1391,7 +1391,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:075 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s156
@@ -1400,7 +1400,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:06 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s157
@@ -1409,7 +1409,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:115 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s158
@@ -1418,7 +1418,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0799 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s159
@@ -1427,7 +1427,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s160
@@ -1436,7 +1436,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:09 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s161
@@ -1445,7 +1445,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0199 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s162
@@ -1454,7 +1454,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:075 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s163
@@ -1463,7 +1463,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s164
@@ -1472,7 +1472,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:082 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s165
@@ -1481,7 +1481,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:051 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s166
@@ -1490,7 +1490,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:01 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s167
@@ -1499,7 +1499,7 @@
     rdf:predicate skos:realtedMatch ;
     rdf:object cofoga:0331 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s168
@@ -1508,7 +1508,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:013 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s169
@@ -1517,7 +1517,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:039 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s170
@@ -1526,7 +1526,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0811 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s171
@@ -1535,7 +1535,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s172
@@ -1544,7 +1544,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0113 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s173
@@ -1553,7 +1553,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:029 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s174
@@ -1562,7 +1562,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:096 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s175
@@ -1571,7 +1571,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:093 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s176
@@ -1580,7 +1580,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0932 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s177
@@ -1589,7 +1589,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:029 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s178
@@ -1598,7 +1598,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0841 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s179
@@ -1607,7 +1607,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:1142 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s180
@@ -1616,7 +1616,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0721 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s181
@@ -1625,7 +1625,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0211 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s182
@@ -1634,7 +1634,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0751 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s183
@@ -1643,7 +1643,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:042 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s184
@@ -1652,7 +1652,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s185
@@ -1661,7 +1661,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:081 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s186
@@ -1670,7 +1670,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:029 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s187
@@ -1679,7 +1679,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0211 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s188
@@ -1688,7 +1688,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:063 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s189
@@ -1697,7 +1697,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0832 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s190
@@ -1706,7 +1706,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0759 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s191
@@ -1715,7 +1715,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:082 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s192
@@ -1724,7 +1724,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s193
@@ -1733,7 +1733,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:093 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s194
@@ -1742,7 +1742,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0732 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s195
@@ -1751,7 +1751,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:059 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s196
@@ -1760,7 +1760,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:062 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s197
@@ -1769,7 +1769,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s198
@@ -1778,7 +1778,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:022 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s199
@@ -1787,7 +1787,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0529 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s200
@@ -1796,7 +1796,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:044 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s201
@@ -1805,7 +1805,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0474 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s202
@@ -1814,7 +1814,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s203
@@ -1823,7 +1823,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:091 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s204
@@ -1832,7 +1832,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0433 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s205
@@ -1841,7 +1841,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:09 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s206
@@ -1850,7 +1850,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:054 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s207
@@ -1859,7 +1859,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:035 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s208
@@ -1868,7 +1868,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:073 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s209
@@ -1877,7 +1877,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:014 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s210
@@ -1886,7 +1886,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:079 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s211
@@ -1895,7 +1895,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:09 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s212
@@ -1904,7 +1904,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:113 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s213
@@ -1913,7 +1913,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:052 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s214
@@ -1922,7 +1922,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0431 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s215
@@ -1931,7 +1931,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:1132 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s216
@@ -1940,7 +1940,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:029 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s217
@@ -1949,7 +1949,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s218
@@ -1958,7 +1958,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:10 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s219
@@ -1967,7 +1967,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0599 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s220
@@ -1976,7 +1976,7 @@
     rdf:predicate skos:narrowerMatch ;
     rdf:object cofoga:0432 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s221
@@ -1985,7 +1985,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0431 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s222
@@ -1994,7 +1994,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0751 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s223
@@ -2003,7 +2003,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0651 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s224
@@ -2012,7 +2012,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:09 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s225
@@ -2021,7 +2021,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:029 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s226
@@ -2030,7 +2030,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s227
@@ -2039,7 +2039,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:033 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s228
@@ -2048,7 +2048,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0529 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s229
@@ -2057,7 +2057,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0721 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s230
@@ -2066,7 +2066,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s231
@@ -2075,7 +2075,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:043 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s232
@@ -2084,7 +2084,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s233
@@ -2093,7 +2093,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:075 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s234
@@ -2102,7 +2102,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:062 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s235
@@ -2111,7 +2111,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0122 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s236
@@ -2120,7 +2120,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:052 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s237
@@ -2129,7 +2129,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0599 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s238
@@ -2138,7 +2138,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0811 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s239
@@ -2147,7 +2147,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:074 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s240
@@ -2156,7 +2156,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:0751 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s241
@@ -2165,7 +2165,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0221 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s242
@@ -2174,7 +2174,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0771 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s243
@@ -2183,7 +2183,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0112 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s244
@@ -2192,7 +2192,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s245
@@ -2201,7 +2201,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0631 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s246
@@ -2210,7 +2210,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0799 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s247
@@ -2219,7 +2219,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:1051 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s248
@@ -2228,7 +2228,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:09 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s249
@@ -2237,7 +2237,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:054 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s250
@@ -2246,7 +2246,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:082 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s251
@@ -2255,7 +2255,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0829 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s252
@@ -2264,7 +2264,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0211 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s253
@@ -2273,7 +2273,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0299 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s254
@@ -2282,7 +2282,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:084 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s255
@@ -2291,7 +2291,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0771 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s256
@@ -2300,7 +2300,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:063 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s257
@@ -2309,7 +2309,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0121 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s258
@@ -2318,7 +2318,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:1141 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s259
@@ -2327,7 +2327,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:079 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s260
@@ -2336,7 +2336,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:1151 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s261
@@ -2345,7 +2345,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0472 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s262
@@ -2354,7 +2354,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:083 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s263
@@ -2363,7 +2363,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:0113 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s264
@@ -2372,7 +2372,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0631 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s265
@@ -2381,7 +2381,7 @@
     rdf:predicate skos:exactMatch ;
     rdf:object cofoga:1091 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s266
@@ -2390,7 +2390,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:05 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s267
@@ -2399,7 +2399,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:075 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s268
@@ -2408,7 +2408,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:1051 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s269
@@ -2417,7 +2417,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:115 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s270
@@ -2426,7 +2426,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:039 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s271
@@ -2435,7 +2435,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:065 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s272
@@ -2444,7 +2444,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0441 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s273
@@ -2453,7 +2453,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s274
@@ -2462,7 +2462,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:029 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s275
@@ -2471,7 +2471,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0211 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s276
@@ -2480,7 +2480,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:0422 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s277
@@ -2489,7 +2489,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:075 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s278
@@ -2498,7 +2498,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0541 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s279
@@ -2507,7 +2507,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:1132 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s280
@@ -2516,7 +2516,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0351 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s281
@@ -2525,7 +2525,7 @@
     rdf:predicate skos:closeMatch ;
     rdf:object cofoga:081 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s282
@@ -2534,7 +2534,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0412 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s283
@@ -2543,7 +2543,7 @@
     rdf:predicate skos:narrowMatch ;
     rdf:object cofoga:0441 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s284
@@ -2552,7 +2552,7 @@
     rdf:predicate skos:narrowerMatch ;
     rdf:object cofoga:021 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s285
@@ -2561,7 +2561,7 @@
     rdf:predicate skos:narrowerMatch ;
     rdf:object cofoga:0441 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s286
@@ -2570,7 +2570,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0299 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s287
@@ -2579,7 +2579,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:03 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s288
@@ -2588,7 +2588,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:07 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s289
@@ -2597,7 +2597,7 @@
     rdf:predicate skos:relatedMatch ;
     rdf:object cofoga:0961 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s290
@@ -2606,7 +2606,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:02 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s291
@@ -2615,7 +2615,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0112 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s292
@@ -2624,7 +2624,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0299 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s293
@@ -2633,7 +2633,7 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:082 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
 
 :s294
@@ -2642,5 +2642,5 @@
     rdf:predicate skos:broadMatch ;
     rdf:object cofoga:0311 ;
     dct:created "2019-07-02"^^xsd:date ;
-    loci:hadGenerationMethod :method ;
+    loci:hadGenerationMethod method: ;
 .
