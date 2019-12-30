@@ -17,9 +17,9 @@
 @base <http://linked.data.gov.au/dataset/agiftcofoga> .
 
 <http://linked.data.gov.au/dataset/agiftcofoga>
-  a loci:Linkset , owl:Ontology ;
-  owl:imports <http://linked.data.gov.au/def/cofog-a> ;
+  a loci:Linkset ;
   owl:imports <https://data.naa.gov.au/def/agift> ;
+  owl:imports <http://linked.data.gov.au/def/cofog-a> ;  
   dct:created "2019-07-01"^^xsd:date ;
   dct:creator <nick> ;
   dct:description """This Linkset contains [SKOS mapping properties](https://www.w3.org/TR/skos-reference/#mapping) between Concepts in the [AGIFT](http://data.naa.gov.au/def/agift) and Concepts in the [COFOG-A](http://linked.data.gov.au/def/cofog) vocabularies.
@@ -38,13 +38,13 @@ The COFOG-A is an Australian version of the UN's Statistical office's COFOG, \"C
     a prov:Plan ;
     rdfs:comment "The method used to create this linkset, described in the code repository housing the Linkset data" ;
     rdfs:label "Python and Excel processing" ;
-    rdfs:seeAlso <https://github.com/CSIRO-enviro-informatics/agiftcofoga-linkset/method> ;
+    rdfs:seeAlso <https://github.com/CSIRO-enviro-informatics/agiftcofoga-linkset/tree/master/methods> ;
     prov:generatedAtTime "2019-07-01"^^xsd:date ;
     prov:wasAttributedTo <nick> ;    
   ] ;
-  void:linkPredicate skos:broadMatch , skos:closeMatch , skos:exactMatch , skos:narrowMatch , skos:relatedMatch ;
-  void:objectsTarget <http://linked.data.gov.au/def/cofog-a> ;
   void:subjectsTarget <https://data.naa.gov.au/def/agift> ;
+  void:linkPredicate skos:broadMatch , skos:closeMatch , skos:exactMatch , skos:narrowMatch , skos:relatedMatch ;
+  void:objectsTarget <http://linked.data.gov.au/def/cofog-a> ;  
 .
 <nick>
   a owl:NamedIndividual ;
