@@ -61,2058 +61,1764 @@ The COFOG-A is an Australian version of the UN's Statistical office's COFOG, \"C
 .
 <001>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0299 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-strategic-policy ;
 .
 <002>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0799 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Health-disaster-preparedness ;
 .
 <003>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0112 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Financial-system-monitoring ;
 .
 <004>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c11 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Transport-network-maintenance ;
 .
 <005>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0521 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Waste-management ;
 .
 <006>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:DEFENCE ;
 .
 <007>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c111 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Road-transport ;
 .
 <008>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1091 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Health-disaster-preparedness ;
 .
 <009>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0112 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Financial-investment ;
 .
 <010>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0211 ;
   rdf:predicate skos:narrowerMatch ;
   rdf:subject agift:DEFENCE ;
 .
 <011>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0441 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Mining-regulations ;
 .
 <012>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0132 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:STATISTICAL-SERVICES ;
 .
 <013>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c075 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:COMMUNITY-SERVICES ;
 .
 <014>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c01 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Public-health-services ;
 .
 <015>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0551 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Marine-life-protection-programs ;
 .
 <016>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c11 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Transport-infrastructure-development ;
 .
 <017>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c016 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Public-debt ;
 .
 <018>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c082 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:COMMUNITY-SERVICES ;
 .
 <019>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0932 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Workplace-training ;
 .
 <020>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c076 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Mental-health-services ;
 .
 <021>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0211 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Military-employment-services ;
 .
 <022>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0621 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Community-support ;
 .
 <023>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0299 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-reform-program ;
 .
 <024>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0631 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Water-quality-monitoring ;
 .
 <025>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c033 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Law-enforcement ;
 .
 <026>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0829 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-artefact-repatriation ;
 .
 <027>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c082 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-artefact-repatriation ;
 .
 <028>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c063 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Water-usage-management ;
 .
 <029>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c079 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Dental-health-services ;
 .
 <030>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0621 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:INDIGENOUS-AFFAIRS ;
 .
 <031>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0829 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-gifts-programs ;
 .
 <032>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c082 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-gifts-programs ;
 .
 <033>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0631 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Water-resources ;
 .
 <034>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0771 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Doping-detection-research ;
 .
 <035>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0231 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Defence-science-and-technology ;
 .
 <036>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c011 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Financial-administration ;
 .
 <037>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0471 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Economic-research ;
 .
 <038>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c062 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Indigenous-enterprise-development ;
 .
 <039>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0391 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Feral-pest-control ;
 .
 <040>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0829 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:CULTURAL-AFFAIRS ;
 .
 <041>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c082 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:CULTURAL-AFFAIRS ;
 .
 <042>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c077 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Medical-research-funding ;
 .
 <043>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c043 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Fossil-fuel-management ;
 .
 <044>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0132 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Building-approval-services ;
 .
 <045>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c079 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Health-hazard-prevention ;
 .
 <046>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c03 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Personnel-safety-standards ;
 .
 <047>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0476 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Biotechnology-development ;
 .
 <048>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Occupational-health-and-safety ;
 .
 <049>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c073 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Ambulance-services ;
 .
 <050>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0433 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Nuclear-sciences ;
 .
 <051>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c055 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Population-based-research ;
 .
 <052>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c031 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Police-administration ;
 .
 <053>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0112 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Financial-administration ;
 .
 <054>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c029 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-community-programs ;
 .
 <055>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Health-promotion ;
 .
 <056>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0761 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Public-health-services ;
 .
 <057>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0723 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Dental-health-services ;
 .
 <058>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0411 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:General-insurance ;
 .
 <059>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c032 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Emergency-services ;
 .
 <060>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Medical-quarantine-services ;
 .
 <061>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c062 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Development-assistance-programs ;
 .
 <062>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1143 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Passenger-services ;
 .
 <063>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0299 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-personnel-exchanges ;
 .
 <064>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0629 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Rural-community-development ;
 .
 <065>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0331 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Civil-law ;
 .
 <066>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1091 ;
   rdf:predicate skos:narrowerMatch ;
   rdf:subject agift:Natural-disasters ;
 .
 <067>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-community-programs ;
 .
 <068>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0521 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Water-usage-management ;
 .
 <069>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1151 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Air-transport ;
 .
 <070>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c062 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:COMMUNITY-SERVICES ;
 .
 <071>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c014 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Medical-research ;
 .
 <072>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c076 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Public-health-services ;
 .
 <073>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c09 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Vocational-education ;
 .
 <074>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0741 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Mental-health-services ;
 .
 <075>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-efficiency-review ;
 .
 <076>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c013 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Integrated-services-planning ;
 .
 <077>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c04 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Economic-research ;
 .
 <078>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c063 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Water-resources ;
 .
 <079>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c031 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Corrective-services ;
 .
 <080>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c118 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Transport-infrastructure-development ;
 .
 <081>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c083 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Climate-information-services ;
 .
 <082>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0731 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Hospital-services ;
 .
 <083>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c01 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Postal-services ;
 .
 <084>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Patent-rights-management ;
 .
 <085>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0141 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Population-based-research ;
 .
 <086>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0599 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Marine-life-protection-programs ;
 .
 <087>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0322 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Firefighting-services ;
 .
 <088>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c06 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Community-housing ;
 .
 <089>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c012 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Overseas-aid-programs ;
 .
 <090>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c077 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Doping-detection-research ;
 .
 <091>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0141 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Medical-research ;
 .
 <092>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0621 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Indigenous-welfare-programs ;
 .
 <093>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1111 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Road-surface-maintenance ;
 .
 <094>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c118 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Navigation-systems-development ;
 .
 <095>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c021 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-attaches ;
 .
 <096>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1091 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Disaster-recovery ;
 .
 <097>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1181 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Transport-infrastructure-development ;
 .
 <098>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Clinical-health-services ;
 .
 <099>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0829 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-centre-management ;
 .
 <100>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1131 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Passenger-services ;
 .
 <101>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1181 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Navigation-systems-development ;
 .
 <102>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c077 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Medical-research ;
 .
 <103>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:HEALTH-CARE ;
 .
 <104>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c075 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Community-health-services ;
 .
 <105>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0231 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Defence-strategic-policy ;
 .
 <106>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c047 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Population-based-research ;
 .
 <107>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Health-protocol-administration ;
 .
 <108>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0761 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Mental-health-services ;
 .
 <109>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0811 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Caravan-and-camping-services ;
 .
 <110>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c029 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-personnel-exchanges ;
 .
 <111>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0799 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Dental-health-services ;
 .
 <112>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0112 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Fiscal-policy ;
 .
 <113>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-career-development ;
 .
 <114>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c055 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Marine-life-protection-programs ;
 .
 <115>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c09 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Adult-migrant-education ;
 .
 <116>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0599 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Environmental-impact-assessment ;
 .
 <117>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0519 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Waste-management ;
 .
 <118>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1091 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Disaster-support ;
 .
 <119>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c052 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Water-usage-management ;
 .
 <120>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0759 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:COMMUNITY-SERVICES ;
 .
 <121>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c029 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-estate-management ;
 .
 <122>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0829 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-festivals ;
 .
 <123>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0161 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Public-debt ;
 .
 <124>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c082 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-centre-management ;
 .
 <125>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0621 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Indigenous-enterprise-development ;
 .
 <126>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c047 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Economic-research ;
 .
 <127>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-strategic-policy ;
 .
 <128>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0391 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Cargo-control ;
 .
 <129>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0932 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Adult-education-programs ;
 .
 <130>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0699 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Civil-community-assistance ;
 .
 <131>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c062 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Community-education ;
 .
 <132>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0311 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Corrective-services ;
 .
 <133>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0621 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Rural-community-development ;
 .
 <134>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0211 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Military-exercises ;
 .
 <135>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Patient-care ;
 .
 <136>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c061 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Community-housing ;
 .
 <137>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Medical-radiation-services ;
 .
 <138>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c05 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Marine-life-protection-programs ;
 .
 <139>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-reform-program ;
 .
 <140>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c081 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Caravan-and-camping-services ;
 .
 <141>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0441 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Water-resources ;
 .
 <142>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-college-training ;
 .
 <143>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0211 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Military-education-and-training ;
 .
 <144>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c059 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Environmental-impact-assessment ;
 .
 <145>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c119 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Transport-infrastructure-development ;
 .
 <146>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c023 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Defence-science-and-technology ;
 .
 <147>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0829 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:COMMUNITY-SERVICES ;
 .
 <148>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c043 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Energy-supply ;
 .
 <149>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-strategic-development ;
 .
 <150>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c076 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Hospital-services ;
 .
 <151>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0529 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Water-quality-monitoring ;
 .
 <152>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1199 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Transport-infrastructure-development ;
 .
 <153>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-strategic-support ;
 .
 <154>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0761 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Hospital-services ;
 .
 <155>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c075 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Dental-health-services ;
 .
 <156>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c06 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:COMMUNITY-SERVICES ;
 .
 <157>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c115 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Air-transport ;
 .
 <158>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0799 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Veterans-health-services ;
 .
 <159>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-science-and-technology ;
 .
 <160>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c09 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Community-education ;
 .
 <161>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0199 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Public-health-services ;
 .
 <162>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c075 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Counselling-services ;
 .
 <163>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Health-insurance-schemes ;
 .
 <164>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c082 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Interpreter-services ;
 .
 <165>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c051 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Waste-management ;
 .
 <166>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c01 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Park-and-reserve-services ;
 .
 <167>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0331 ;
   rdf:predicate skos:realtedMatch ;
   rdf:subject agift:Law-enforcement ;
 .
 <168>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c013 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Independent-living-services ;
 .
 <169>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c039 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Product-safety ;
 .
 <170>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0811 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Park-and-reserve-services ;
 .
 <171>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Health-disaster-preparedness ;
 .
 <172>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0113 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:International-affairs ;
 .
 <173>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c029 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-strategic-policy ;
 .
 <174>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c096 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Curriculum-development ;
 .
 <175>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c093 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Vocational-education ;
 .
 <176>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0932 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:EDUCATION-AND-TRAINING ;
 .
 <177>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c029 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-strategic-support ;
 .
 <178>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0841 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:COMMUNITY-SERVICES ;
 .
 <179>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1142 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Freight-movement-regulation ;
 .
 <180>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0721 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Mental-health-services ;
 .
 <181>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0211 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Military-bands ;
 .
 <182>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0751 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:COMMUNITY-SERVICES ;
 .
 <183>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c042 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Forestry-industry ;
 .
 <184>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-force-careers ;
 .
 <185>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c081 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Community-recreational-programs ;
 .
 <186>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c029 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-strategic-development ;
 .
 <187>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0211 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Military-advisors ;
 .
 <188>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c063 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Water-conservation-plans ;
 .
 <189>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0832 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Electronic-publishing ;
 .
 <190>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0759 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Public-health-services ;
 .
 <191>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c082 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-festivals ;
 .
 <192>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Community-health-services ;
 .
 <193>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c093 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Tertiary-education ;
 .
 <194>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0732 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Hospital-services ;
 .
 <195>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c059 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Marine-life-protection-programs ;
 .
 <196>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c062 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Rural-community-development ;
 .
 <197>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Mental-health-services ;
 .
 <198>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c022 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Overseas-aid-programs ;
 .
 <199>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0529 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Water-usage-management ;
 .
 <200>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c044 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Mining-regulations ;
 .
 <201>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0474 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Mining-regulations ;
 .
 <202>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Veterans-health-services ;
 .
 <203>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c091 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Early-childhood-education ;
 .
 <204>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0433 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Nuclear-safeguards ;
 .
 <205>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c09 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Early-childhood-education ;
 .
 <206>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c054 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Marine-life-protection-programs ;
 .
 <207>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c035 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Personnel-safety-standards ;
 .
 <208>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c073 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Hospital-services ;
 .
 <209>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c014 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Population-based-research ;
 .
 <210>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c079 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Health-disaster-preparedness ;
 .
 <211>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c09 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Arts-education ;
 .
 <212>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c113 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Waterway-management ;
 .
 <213>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c052 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Waste-management ;
 .
 <214>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0431 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Mineral-exploration ;
 .
 <215>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1132 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Passenger-services ;
 .
 <216>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c029 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-force-careers ;
 .
 <217>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Dental-health-services ;
 .
 <218>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c10 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Border-protection ;
 .
 <219>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0599 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Wilderness-area-management ;
 .
 <220>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0432 ;
   rdf:predicate skos:narrowerMatch ;
   rdf:subject agift:NATURAL-RESOURCES ;
 .
 <221>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0431 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Mineral-resources ;
 .
 <222>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0751 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Gambling-support-services ;
 .
 <223>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0651 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Community-housing ;
 .
 <224>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c09 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:EDUCATION-AND-TRAINING ;
 .
 <225>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c029 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-reform-program ;
 .
 <226>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Hospital-services ;
 .
 <227>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c033 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Civil-law ;
 .
 <228>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0529 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Waste-management ;
 .
 <229>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0721 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Medical-aids-regulation ;
 .
 <230>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-personnel-exchanges ;
 .
 <231>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c043 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Energy-resources ;
 .
 <232>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Medical-and-health-sciences ;
 .
 <233>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c075 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Public-health-services ;
 .
 <234>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c062 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Community-support ;
 .
 <235>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0122 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Overseas-aid-programs ;
 .
 <236>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c052 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Water-quality-monitoring ;
 .
 <237>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0599 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Wildlife-sanctuary-management ;
 .
 <238>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0811 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Community-recreational-programs ;
 .
 <239>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c074 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Mental-health-services ;
 .
 <240>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0751 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Mental-health-services ;
 .
 <241>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0221 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Overseas-aid-programs ;
 .
 <242>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0771 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Medical-research-funding ;
 .
 <243>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0112 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Financial-system-management ;
 .
 <244>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Indigenous-health-services ;
 .
 <245>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0631 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Water-conservation-plans ;
 .
 <246>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0799 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Health-hazard-prevention ;
 .
 <247>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1051 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Community-housing ;
 .
 <248>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c09 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Adult-education-programs ;
 .
 <249>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c054 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Endangered-species-protection ;
 .
 <250>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c082 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-awards-and-scholarships ;
 .
 <251>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0829 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Cultural-awards-and-scholarships ;
 .
 <252>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0211 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Military-operations ;
 .
 <253>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0299 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-force-careers ;
 .
 <254>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c084 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:COMMUNITY-SERVICES ;
 .
 <255>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0771 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Medical-research ;
 .
 <256>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c063 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Water-quality-monitoring ;
 .
 <257>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0121 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Overseas-aid-programs ;
 .
 <258>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1141 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Passenger-services ;
 .
 <259>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c079 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Veterans-health-services ;
 .
 <260>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1151 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Air-transport-safety ;
 .
 <261>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0472 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Forestry-industry ;
 .
 <262>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c083 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Mobile-telephone-services ;
 .
 <263>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0113 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:INTERNATIONAL-RELATIONS ;
 .
 <264>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0631 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Water-usage-management ;
 .
 <265>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1091 ;
   rdf:predicate skos:exactMatch ;
   rdf:subject agift:Disaster-relief ;
 .
 <266>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c05 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Environmental-impact-assessment ;
 .
 <267>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c075 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Gambling-support-services ;
 .
 <268>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1051 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-housing ;
 .
 <269>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c115 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Air-transport-safety ;
 .
 <270>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c039 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Personnel-safety-standards ;
 .
 <271>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c065 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Community-housing ;
 .
 <272>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0441 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Mineral-exploration ;
 .
 <273>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-housing ;
 .
 <274>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c029 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-efficiency-review ;
 .
 <275>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0211 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Military-law ;
 .
 <276>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0422 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Forestry-industry ;
 .
 <277>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c075 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Veterans-health-services ;
 .
 <278>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0541 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Marine-life-protection-programs ;
 .
 <279>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c1132 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Freight-movement-regulation ;
 .
 <280>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0351 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Personnel-safety-standards ;
 .
 <281>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c081 ;
   rdf:predicate skos:closeMatch ;
   rdf:subject agift:Park-and-reserve-services ;
 .
 <282>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0412 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Labour-market-programs ;
 .
 <283>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0441 ;
   rdf:predicate skos:narrowMatch ;
   rdf:subject agift:Mineral-resources ;
 .
 <284>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c021 ;
   rdf:predicate skos:narrowerMatch ;
   rdf:subject agift:DEFENCE ;
 .
 <285>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0441 ;
   rdf:predicate skos:narrowerMatch ;
   rdf:subject agift:NATURAL-RESOURCES ;
 .
 <286>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0299 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-strategic-development ;
 .
 <287>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c03 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Product-safety ;
 .
 <288>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c07 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Health-hazard-prevention ;
 .
 <289>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0961 ;
   rdf:predicate skos:relatedMatch ;
   rdf:subject agift:Curriculum-development ;
 .
 <290>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c02 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-estate-management ;
 .
 <291>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0112 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Financial-budgeting ;
 .
 <292>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0299 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Defence-strategic-support ;
 .
 <293>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c082 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Indigenous-cultural-heritage ;
 .
 <294>
   a rdf:Statement ;
-  dct:created "2019-07-02"^^xsd:date ;
   rdf:object cofoga:c0311 ;
   rdf:predicate skos:broadMatch ;
   rdf:subject agift:Police-administration ;
